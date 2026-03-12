@@ -1,0 +1,46 @@
+name: BMS Advance Sales Fetcher
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    # --- ADDED THIS BLOCK ---
+    permissions:
+      contents: write
+    # ------------------------
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install playwright
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run BMS fetcher
+        env:
+          BMS_SCRAPER_KEY: ${{ secrets.BMS_SCRAPER_KEY }}
+        run: python BMS_AdvanceSales_run.py
+
+      - name: Commit & push updated JSON files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: update advance sales data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
