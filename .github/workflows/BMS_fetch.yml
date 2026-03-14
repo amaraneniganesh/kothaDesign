@@ -1,46 +1,60 @@
-name: BMS Advance Sales Fetcher
+name: India Advance Sales Scraper
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
+    - cron: '0 */2 * * *'  # Runs at minute 0 past every 2nd hour
+  workflow_dispatch:       # Keeps the manual trigger button
+
+permissions:
+  contents: write
 
 jobs:
-  fetch:
+  scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
-
-    # --- ADDED THIS BLOCK ---
-    permissions:
-      contents: write
-    # ------------------------
+    timeout-minutes: 55
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install playwright
+        run: pip install playwright cryptography requests
 
-      - name: Install Playwright browsers
+      - name: Install Chromium
         run: playwright install chromium --with-deps
 
-      - name: Run BMS fetcher
-        env:
-          BMS_SCRAPER_KEY: ${{ secrets.BMS_SCRAPER_KEY }}
-        run: python BMS_AdvanceSales_run.py
-
-      - name: Commit & push updated JSON files
+      - name: Clean old data and create fresh directory
         run: |
-          git config user.name  "github-actions[bot]"
+          rm -rf data
+          mkdir -p data
+
+      - name: Run Scrapers and Merger
+        env:
+          SUPER_KEY: ${{ secrets.SUPER_KEY }}
+        run: |
+          echo "🚀 Running BMS Advance Sales Scraper..."
+          python BMS_AdvanceSales_run.py
+          
+          echo "🚀 Running District Advance Sales Scraper..."
+          python DistrictAdvrun.py
+          
+          echo "🚀 Running Merger..."
+          python mergerrun.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage ONLY the freshly generated data folder
           git add data/
-          git diff --cached --quiet || git commit -m "chore: update advance sales data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          
+          git diff --cached --quiet || git commit -m "Update advance data: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
