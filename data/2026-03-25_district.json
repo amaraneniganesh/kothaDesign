@@ -1,0 +1,56 @@
+{
+  "fetchDate": "2026-03-25",
+  "movies": {
+    "Dhurandhar The Revenge": {
+      "id": "OB7GIH",
+      "name": "Dhurandhar The Revenge",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-fde36fe0-1d31-11f1-a16d-c13dd9a21c00.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 2252,
+        "seatsAvailable": 2020,
+        "seatsSold": 232,
+        "occupancy": 10.3,
+        "totalRevenue": 26920.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rajahmundry": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2252,
+                "seatsAvailable": 2020,
+                "seatsSold": 232,
+                "occupancy": 10.3,
+                "totalRevenue": 26920.0
+              },
+              "theatres": {
+                "4425": {
+                  "theatreName": "Ashoka Theater (Newly Renovated), Annapurnamma peta, Rajahmundry",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2252,
+                    "seatsAvailable": 2020,
+                    "seatsSold": 232,
+                    "occupancy": 10.3,
+                    "totalRevenue": 26920.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

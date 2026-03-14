@@ -1,0 +1,130 @@
+{
+  "fetchDate": "2026-03-23",
+  "movies": {
+    "Dhurandhar The Revenge": {
+      "id": "OB7BL3",
+      "name": "Dhurandhar The Revenge",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
+      "overallStats": {
+        "totalShows": 8,
+        "totalSeats": 5556,
+        "seatsAvailable": 2684,
+        "seatsSold": 2872,
+        "occupancy": 51.69,
+        "totalRevenue": 375200.0,
+        "totalTheatres": 2
+      },
+      "states": {
+        "telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hyderabad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 3280,
+                "seatsAvailable": 1072,
+                "seatsSold": 2208,
+                "occupancy": 67.32,
+                "totalRevenue": 291400.0
+              },
+              "theatres": {
+                "36376": {
+                  "theatreName": "Sree Ramana Gold 4K Dolby 7.1, Amberpet, Hyderabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3280,
+                    "seatsAvailable": 1072,
+                    "seatsSold": 2208,
+                    "occupancy": 67.32,
+                    "totalRevenue": 291400.0
+                  }
+                }
+              }
+            },
+            "Nizamabad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2276,
+                "seatsAvailable": 1612,
+                "seatsSold": 664,
+                "occupancy": 29.17,
+                "totalRevenue": 83800.0
+              },
+              "theatres": {
+                "1041687": {
+                  "theatreName": "Asian Mukta A2 Cinemas, Natraj, Nizamabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2276,
+                    "seatsAvailable": 1612,
+                    "seatsSold": 664,
+                    "occupancy": 29.17,
+                    "totalRevenue": 83800.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dhurandhar The Revenge (OB7GIH)": {
+      "id": "OB7GIH",
+      "name": "Dhurandhar The Revenge",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-fde36fe0-1d31-11f1-a16d-c13dd9a21c00.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 2348,
+        "seatsAvailable": 1924,
+        "seatsSold": 424,
+        "occupancy": 18.06,
+        "totalRevenue": 59700.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Jangaon": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2348,
+                "seatsAvailable": 1924,
+                "seatsSold": 424,
+                "occupancy": 18.06,
+                "totalRevenue": 59700.0
+              },
+              "theatres": {
+                "27150": {
+                  "theatreName": "SVC Krishna Kala Mandir, Siddipet Road, Jangaon",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2348,
+                    "seatsAvailable": 1924,
+                    "seatsSold": 424,
+                    "occupancy": 18.06,
+                    "totalRevenue": 59700.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
