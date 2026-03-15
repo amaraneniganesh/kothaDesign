@@ -57,13 +57,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 17,
-        "totalSeats": 9262,
-        "seatsAvailable": 6796,
-        "seatsSold": 2466,
-        "occupancy": 26.62,
-        "totalRevenue": 325900.0,
-        "totalTheatres": 5
+        "totalShows": 21,
+        "totalSeats": 12334,
+        "seatsAvailable": 9748,
+        "seatsSold": 2586,
+        "occupancy": 20.97,
+        "totalRevenue": 346900.0,
+        "totalTheatres": 6
       },
       "states": {
         "madhya-pradesh": {
@@ -113,14 +113,25 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 3280,
-                "seatsAvailable": 1072,
-                "seatsSold": 2208,
-                "occupancy": 67.32,
-                "totalRevenue": 291400.0
+                "totalShows": 8,
+                "totalSeats": 6352,
+                "seatsAvailable": 4024,
+                "seatsSold": 2328,
+                "occupancy": 36.65,
+                "totalRevenue": 312400.0
               },
               "theatres": {
+                "1041449": {
+                  "theatreName": "SVC Cinemas Yadagiri 70MM, 4K Laser Projection (Newly Renovated)",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3072,
+                    "seatsAvailable": 2952,
+                    "seatsSold": 120,
+                    "occupancy": 3.91,
+                    "totalRevenue": 21000.0
+                  }
+                },
                 "36376": {
                   "theatreName": "Sree Ramana Gold 4K Dolby 7.1, Amberpet, Hyderabad",
                   "stats": {

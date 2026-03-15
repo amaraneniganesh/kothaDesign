@@ -80,13 +80,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 23,
-        "totalSeats": 10162,
-        "seatsAvailable": 7032,
-        "seatsSold": 3130,
-        "occupancy": 30.8,
-        "totalRevenue": 409700.0,
-        "totalTheatres": 6
+        "totalShows": 27,
+        "totalSeats": 13234,
+        "seatsAvailable": 9984,
+        "seatsSold": 3250,
+        "occupancy": 24.56,
+        "totalRevenue": 430700.0,
+        "totalTheatres": 7
       },
       "states": {
         "jharkhand": {
@@ -171,14 +171,25 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 3280,
-                "seatsAvailable": 1072,
-                "seatsSold": 2208,
-                "occupancy": 67.32,
-                "totalRevenue": 291400.0
+                "totalShows": 8,
+                "totalSeats": 6352,
+                "seatsAvailable": 4024,
+                "seatsSold": 2328,
+                "occupancy": 36.65,
+                "totalRevenue": 312400.0
               },
               "theatres": {
+                "1041449": {
+                  "theatreName": "SVC Cinemas Yadagiri 70MM, 4K Laser Projection (Newly Renovated)",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3072,
+                    "seatsAvailable": 2952,
+                    "seatsSold": 120,
+                    "occupancy": 3.91,
+                    "totalRevenue": 21000.0
+                  }
+                },
                 "36376": {
                   "theatreName": "Sree Ramana Gold 4K Dolby 7.1, Amberpet, Hyderabad",
                   "stats": {
@@ -435,6 +446,57 @@
                     "seatsSold": 308,
                     "occupancy": 17.07,
                     "totalRevenue": 41900.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Youth": {
+      "id": "OB8CO1",
+      "name": "Youth",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-65fdaac0-05a2-11f1-adea-2ddc896211a4-ea6822c0-16de-11f1-aecc-fbbcea8cf963.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 2080,
+        "seatsAvailable": 2080,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2080,
+                "seatsAvailable": 2080,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "14703": {
+                  "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2080,
+                    "seatsAvailable": 2080,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }

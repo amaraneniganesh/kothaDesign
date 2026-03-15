@@ -80,13 +80,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 71,
-        "totalSeats": 23694,
-        "seatsAvailable": 19164,
-        "seatsSold": 4530,
-        "occupancy": 19.12,
-        "totalRevenue": 749431.0,
-        "totalTheatres": 16
+        "totalShows": 75,
+        "totalSeats": 26766,
+        "seatsAvailable": 22080,
+        "seatsSold": 4686,
+        "occupancy": 17.51,
+        "totalRevenue": 781276.0,
+        "totalTheatres": 17
       },
       "states": {
         "andhra-pradesh": {
@@ -103,10 +103,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 988,
-                "seatsAvailable": 980,
-                "seatsSold": 8,
-                "occupancy": 0.81,
-                "totalRevenue": 1416.0
+                "seatsAvailable": 976,
+                "seatsSold": 12,
+                "occupancy": 1.21,
+                "totalRevenue": 2416.0
               },
               "theatres": {
                 "1041782": {
@@ -114,10 +114,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 988,
-                    "seatsAvailable": 980,
-                    "seatsSold": 8,
-                    "occupancy": 0.81,
-                    "totalRevenue": 1416.0
+                    "seatsAvailable": 976,
+                    "seatsSold": 12,
+                    "occupancy": 1.21,
+                    "totalRevenue": 2416.0
                   }
                 }
               }
@@ -138,10 +138,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1028,
-                "seatsAvailable": 911,
-                "seatsSold": 117,
-                "occupancy": 11.38,
-                "totalRevenue": 34500.0
+                "seatsAvailable": 891,
+                "seatsSold": 137,
+                "occupancy": 13.33,
+                "totalRevenue": 39400.0
               },
               "theatres": {
                 "9131": {
@@ -149,10 +149,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1028,
-                    "seatsAvailable": 911,
-                    "seatsSold": 117,
-                    "occupancy": 11.38,
-                    "totalRevenue": 34500.0
+                    "seatsAvailable": 891,
+                    "seatsSold": 137,
+                    "occupancy": 13.33,
+                    "totalRevenue": 39400.0
                   }
                 }
               }
@@ -254,10 +254,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1104,
-                "seatsAvailable": 887,
-                "seatsSold": 217,
-                "occupancy": 19.66,
-                "totalRevenue": 44485.0
+                "seatsAvailable": 878,
+                "seatsSold": 226,
+                "occupancy": 20.47,
+                "totalRevenue": 46330.0
               },
               "theatres": {
                 "1102133": {
@@ -265,10 +265,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1104,
-                    "seatsAvailable": 887,
-                    "seatsSold": 217,
-                    "occupancy": 19.66,
-                    "totalRevenue": 44485.0
+                    "seatsAvailable": 878,
+                    "seatsSold": 226,
+                    "occupancy": 20.47,
+                    "totalRevenue": 46330.0
                   }
                 }
               }
@@ -310,14 +310,25 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 11,
-                "totalSeats": 6483,
-                "seatsAvailable": 3964,
-                "seatsSold": 2519,
-                "occupancy": 38.86,
-                "totalRevenue": 329230.0
+                "totalShows": 15,
+                "totalSeats": 9555,
+                "seatsAvailable": 6916,
+                "seatsSold": 2639,
+                "occupancy": 27.62,
+                "totalRevenue": 350230.0
               },
               "theatres": {
+                "1041449": {
+                  "theatreName": "SVC Cinemas Yadagiri 70MM, 4K Laser Projection (Newly Renovated)",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3072,
+                    "seatsAvailable": 2952,
+                    "seatsSold": 120,
+                    "occupancy": 3.91,
+                    "totalRevenue": 21000.0
+                  }
+                },
                 "1041683": {
                   "theatreName": "Asian Mukta A2 Cinemas, MJR Square, Narapally",
                   "stats": {
@@ -461,10 +472,10 @@
               "cityStats": {
                 "totalShows": 12,
                 "totalSeats": 2384,
-                "seatsAvailable": 2191,
-                "seatsSold": 193,
-                "occupancy": 8.1,
-                "totalRevenue": 110200.0
+                "seatsAvailable": 2188,
+                "seatsSold": 196,
+                "occupancy": 8.22,
+                "totalRevenue": 113300.0
               },
               "theatres": {
                 "25281": {
@@ -472,10 +483,10 @@
                   "stats": {
                     "totalShows": 12,
                     "totalSeats": 2384,
-                    "seatsAvailable": 2191,
-                    "seatsSold": 193,
-                    "occupancy": 8.1,
-                    "totalRevenue": 110200.0
+                    "seatsAvailable": 2188,
+                    "seatsSold": 196,
+                    "occupancy": 8.22,
+                    "totalRevenue": 113300.0
                   }
                 }
               }
@@ -524,13 +535,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-ea86c5a0-1d31-11f1-96c9-4539b6d27dc7.jpg",
       "overallStats": {
-        "totalShows": 8,
-        "totalSeats": 2482,
-        "seatsAvailable": 2248,
-        "seatsSold": 234,
-        "occupancy": 9.43,
-        "totalRevenue": 40820.0,
-        "totalTheatres": 3
+        "totalShows": 11,
+        "totalSeats": 3976,
+        "seatsAvailable": 3553,
+        "seatsSold": 423,
+        "occupancy": 10.64,
+        "totalRevenue": 69170.0,
+        "totalTheatres": 4
       },
       "states": {
         "tamil-nadu": {
@@ -577,6 +588,29 @@
                 }
               }
             },
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1494,
+                "seatsAvailable": 1305,
+                "seatsSold": 189,
+                "occupancy": 12.65,
+                "totalRevenue": 28350.0
+              },
+              "theatres": {
+                "14702": {
+                  "theatreName": "Vaduganathan Cinemas 4K Dolby Atmos, S.P. Kovil Stree, Chidambaram",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1494,
+                    "seatsAvailable": 1305,
+                    "seatsSold": 189,
+                    "occupancy": 12.65,
+                    "totalRevenue": 28350.0
+                  }
+                }
+              }
+            },
             "Edappadi": {
               "cityStats": {
                 "totalShows": 2,
@@ -611,10 +645,10 @@
       "overallStats": {
         "totalShows": 70,
         "totalSeats": 35106,
-        "seatsAvailable": 29969,
-        "seatsSold": 5137,
-        "occupancy": 14.63,
-        "totalRevenue": 585664.0,
+        "seatsAvailable": 29962,
+        "seatsSold": 5144,
+        "occupancy": 14.65,
+        "totalRevenue": 586399.0,
         "totalTheatres": 18
       },
       "states": {
@@ -839,10 +873,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1728,
-                "seatsAvailable": 1394,
-                "seatsSold": 334,
-                "occupancy": 19.33,
-                "totalRevenue": 35070.0
+                "seatsAvailable": 1387,
+                "seatsSold": 341,
+                "occupancy": 19.73,
+                "totalRevenue": 35805.0
               },
               "theatres": {
                 "1031639": {
@@ -850,10 +884,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1728,
-                    "seatsAvailable": 1394,
-                    "seatsSold": 334,
-                    "occupancy": 19.33,
-                    "totalRevenue": 35070.0
+                    "seatsAvailable": 1387,
+                    "seatsSold": 341,
+                    "occupancy": 19.73,
+                    "totalRevenue": 35805.0
                   }
                 }
               }
@@ -1109,18 +1143,69 @@
         }
       }
     },
+    "Thaai Kizhavi": {
+      "id": "OB88HH",
+      "name": "Thaai Kizhavi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_Poster%20(8)-4487a990-11aa-11f1-b8e9-3913d9769fcc.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 498,
+        "seatsAvailable": 435,
+        "seatsSold": 63,
+        "occupancy": 12.65,
+        "totalRevenue": 9450.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 498,
+                "seatsAvailable": 435,
+                "seatsSold": 63,
+                "occupancy": 12.65,
+                "totalRevenue": 9450.0
+              },
+              "theatres": {
+                "14702": {
+                  "theatreName": "Vaduganathan Cinemas 4K Dolby Atmos, S.P. Kovil Stree, Chidambaram",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 498,
+                    "seatsAvailable": 435,
+                    "seatsSold": 63,
+                    "occupancy": 12.65,
+                    "totalRevenue": 9450.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Youth": {
       "id": "OB8CO1",
       "name": "Youth",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-65fdaac0-05a2-11f1-adea-2ddc896211a4-ea6822c0-16de-11f1-aecc-fbbcea8cf963.jpg",
       "overallStats": {
-        "totalShows": 8,
-        "totalSeats": 2080,
-        "seatsAvailable": 1992,
+        "totalShows": 12,
+        "totalSeats": 4160,
+        "seatsAvailable": 4072,
         "seatsSold": 88,
-        "occupancy": 4.23,
+        "occupancy": 2.12,
         "totalRevenue": 12480.0,
-        "totalTheatres": 2
+        "totalTheatres": 3
       },
       "states": {
         "tamil-nadu": {
@@ -1152,6 +1237,29 @@
                     "seatsSold": 88,
                     "occupancy": 4.98,
                     "totalRevenue": 12480.0
+                  }
+                }
+              }
+            },
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2080,
+                "seatsAvailable": 2080,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "14703": {
+                  "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2080,
+                    "seatsAvailable": 2080,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
