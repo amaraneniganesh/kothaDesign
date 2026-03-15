@@ -1,9 +1,10 @@
 {
-    "_last_updated": "2026-03-15 16:01:22 IST",
+    "_last_updated": "2026-03-15 18:44:23 IST",
     "Dhurandhar The Revenge": {
         "Associated_Titles": [
             "Dhurandhar The Revenge - Hindi",
             "Dhurandhar The Revenge (Telugu) - Telugu",
+            "Dhurandhar The Revenge (Tamil) - Tamil",
             "Dhurandhar The Revenge (Malayalam) - Malayalam",
             "Dhurandhar The Revenge",
             "Dhurandhar The Revenge (OB7GIH)"
@@ -11,20 +12,21 @@
         "Languages": [
             "Hindi",
             "Telugu - Telugu",
+            "Tamil - Tamil",
             "Malayalam - Malayalam"
         ],
         "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dhurandhar-the-revenge-et00478890-1772893614.jpg",
         "Locations": {
-            "Rajasthan": {
+            "Chhattisgarh": {
                 "Cities": {
-                    "Raisinghnagar": {
+                    "Sukma": {
                         "Venues": {
-                            "[BMS] COPC - Cosmo Palace Cinema: Raisinghnagar": {
+                            "[BMS] SHCZ - Sharda Cinema: Sukma": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 5196,
+                                "Venue_TotalSeats": 507,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -33,14 +35,14 @@
                             }
                         }
                     },
-                    "Jaipur": {
+                    "Bhatgaon": {
                         "Venues": {
-                            "[BMS] PACJ - Paras Cinema: Amer Road": {
+                            "[BMS] SMCB - Shree Mahal Cinema: Bhatgaon": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 981,
+                                "Venue_TotalSeats": 765,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -48,59 +50,111 @@
                                 "Venue_FastFillingShows": 0
                             }
                         }
-                    }
-                }
-            },
-            "Maharashtra": {
-                "Cities": {
-                    "Mumbai": {
+                    },
+                    "Surajpur": {
                         "Venues": {
-                            "[BMS] RGCM - Regal Cinema: Colaba": {
+                            "[BMS] IMXS - IMAXX Multiplex: Surajpur": {
                                 "Languages": [
                                     "Hindi"
                                 ],
-                                "Venue_TotalRevenue": 77550.0,
-                                "Venue_TotalSeats": 3534,
-                                "Venue_TotalBookedSeats": 276,
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 618,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 7.81,
+                                "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] GATY - G7 Multiplex: Bandra (W)": {
+                            }
+                        }
+                    },
+                    "Sheorinarayan": {
+                        "Venues": {
+                            "[BMS] TMMS - Taksh Multiplex: Sheorinarayan": {
                                 "Languages": [
                                     "Hindi"
                                 ],
-                                "Venue_TotalRevenue": 155550.0,
-                                "Venue_TotalSeats": 5370,
-                                "Venue_TotalBookedSeats": 696,
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 441,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Dhamtari": {
+                        "Venues": {
+                            "[BMS] SNKC - Suneelam Cinema: Kurud": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 468,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Akaltara": {
+                        "Venues": {
+                            "[BMS] DLMT - DL Multiplex: Akaltara": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 825,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Kawardha": {
+                        "Venues": {
+                            "[BMS] MBTK - Maa Bhuvaneshwari Talkies: Kawardha": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 162,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Raigarh": {
+                        "Venues": {
+                            "[BMS] GALX - Galaxy Cinemas (Dolby Atmos): Raigarh": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 804,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 6,
-                                "Venue_OccupancyPercentage": 12.96,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] MMCV - Movie Max V Cinema: Virar (E)": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 402,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 6,
                                 "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
                         }
                     },
-                    "Warora": {
+                    "Katghora": {
                         "Venues": {
-                            "[BMS] SCMW - Satyam Cinemax: Warora": {
+                            "[BMS] MMCK - Murli Metro Cinema: Katghora": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 180,
+                                "Venue_TotalSeats": 585,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -109,14 +163,14 @@
                             }
                         }
                     },
-                    "Akola": {
+                    "Janjgir": {
                         "Venues": {
-                            "[BMS] NRAA - New Regal Cinema: Akola": {
+                            "[BMS] MCJR - Metro Cinema(Dolby 7.1 sound): Janjgir Naila": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 1392,
+                                "Venue_TotalSeats": 528,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -125,46 +179,14 @@
                             }
                         }
                     },
-                    "Khopoli": {
+                    "Lakhanpur": {
                         "Venues": {
-                            "[BMS] SMLK - Samuel Multiplex: Khopoli": {
+                            "[BMS] SPJL - SPJ Multiplex: Lakhanpur (CG)": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 622,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Mahad": {
-                        "Venues": {
-                            "[BMS] PGGC - P.G City Miniplex: Mahad": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 588,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 8,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Chandrapur": {
-                        "Venues": {
-                            "[BMS] ABCC - Cinejoy Cinema: Chandrapur": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 435,
+                                "Venue_TotalSeats": 393,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -173,18 +195,18 @@
                             }
                         }
                     },
-                    "Palghar": {
+                    "Birra": {
                         "Venues": {
-                            "[BMS] GDPG - Gold Cinema: Palghar": {
+                            "[BMS] ACBX - AAB Cineplex: Birra": {
                                 "Languages": [
                                     "Hindi"
                                 ],
-                                "Venue_TotalRevenue": 26250.0,
-                                "Venue_TotalSeats": 300,
-                                "Venue_TotalBookedSeats": 75,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 25.0,
-                                "Venue_SoldOutShows": 1,
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 624,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
                         }
@@ -199,11 +221,11 @@
                                 "Languages": [
                                     "Hindi"
                                 ],
-                                "Venue_TotalRevenue": 2100.0,
+                                "Venue_TotalRevenue": 3280.0,
                                 "Venue_TotalSeats": 399,
-                                "Venue_TotalBookedSeats": 6,
+                                "Venue_TotalBookedSeats": 10,
                                 "Venue_TotalShows": 7,
-                                "Venue_OccupancyPercentage": 1.5,
+                                "Venue_OccupancyPercentage": 2.51,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             },
@@ -216,6 +238,18 @@
                                 "Venue_TotalBookedSeats": 1056,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 21.71,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] RMKN - Ramakrishna Glitterati: Abids": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 2440,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             },
@@ -232,27 +266,15 @@
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             },
-                            "[BMS] RMKN - Ramakrishna Glitterati: Abids": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 2440,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
                             "[BMS] SRCH - Sree Ramana Gold 4K & Dolby 7.1: Amberpet": {
                                 "Languages": [
                                     "Hindi"
                                 ],
-                                "Venue_TotalRevenue": 45000.0,
+                                "Venue_TotalRevenue": 155200.0,
                                 "Venue_TotalSeats": 2628,
-                                "Venue_TotalBookedSeats": 280,
+                                "Venue_TotalBookedSeats": 944,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 10.65,
+                                "Venue_OccupancyPercentage": 35.92,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             },
@@ -310,6 +332,20 @@
                                 "Venue_TotalSeats": 2176,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Mahbubnagar": {
+                        "Venues": {
+                            "[District] Mythri Sri Krishna Theatre, Near Rainbow Concept School, Mahbubnagar": {
+                                "Languages": [],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 954,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
@@ -465,9 +501,9 @@
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 1734,
+                                "Venue_TotalSeats": 1954,
                                 "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 12,
+                                "Venue_TotalShows": 14,
                                 "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
@@ -524,6 +560,235 @@
                     }
                 }
             },
+            "Maharashtra": {
+                "Cities": {
+                    "Warora": {
+                        "Venues": {
+                            "[BMS] SCMW - Satyam Cinemax: Warora": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 180,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Mumbai": {
+                        "Venues": {
+                            "[BMS] GATY - G7 Multiplex: Bandra (W)": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 156050.0,
+                                "Venue_TotalSeats": 5370,
+                                "Venue_TotalBookedSeats": 698,
+                                "Venue_TotalShows": 6,
+                                "Venue_OccupancyPercentage": 13.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] MMCV - Movie Max V Cinema: Virar (E)": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 402,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 6,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] KURL - Bharat Cineplex: Kurla (W)": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1194,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 6,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] RGCM - Regal Cinema: Colaba": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 77550.0,
+                                "Venue_TotalSeats": 3534,
+                                "Venue_TotalBookedSeats": 276,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 7.81,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Akola": {
+                        "Venues": {
+                            "[BMS] NRAA - New Regal Cinema: Akola": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1392,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Khopoli": {
+                        "Venues": {
+                            "[BMS] SMLK - Samuel Multiplex: Khopoli": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 622,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Mahad": {
+                        "Venues": {
+                            "[BMS] PGGC - P.G City Miniplex: Mahad": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 588,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 8,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Chandrapur": {
+                        "Venues": {
+                            "[BMS] ABCC - Cinejoy Cinema: Chandrapur": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 435,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Palghar": {
+                        "Venues": {
+                            "[BMS] GDPG - Gold Cinema: Palghar": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 26250.0,
+                                "Venue_TotalSeats": 300,
+                                "Venue_TotalBookedSeats": 75,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 25.0,
+                                "Venue_SoldOutShows": 1,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Hinganghat": {
+                        "Venues": {
+                            "[BMS] LITH - Laxmi Talkies: Hinganghat": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1152,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    }
+                }
+            },
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] ACVM - AGS Cinemas: Villivakkam": {
+                                "Languages": [
+                                    "Hindi",
+                                    "Tamil - Tamil"
+                                ],
+                                "Venue_TotalRevenue": 51805.0,
+                                "Venue_TotalSeats": 1760,
+                                "Venue_TotalBookedSeats": 406,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 23.07,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] AGSM - AGS Cinemas: Maduravoyal": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 53932.0,
+                                "Venue_TotalSeats": 1476,
+                                "Venue_TotalBookedSeats": 374,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 25.34,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] ACTN - AGS Cinemas: T. Nagar": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 23264.0,
+                                "Venue_TotalSeats": 884,
+                                "Venue_TotalBookedSeats": 184,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 20.81,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Ooty": {
+                        "Venues": {
+                            "[BMS] ARRO - The Assembly Rooms: Ooty": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 668,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    }
+                }
+            },
             "Madhya Pradesh": {
                 "Cities": {
                     "Balaghat": {
@@ -534,6 +799,22 @@
                                 ],
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 120,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Guna": {
+                        "Venues": {
+                            "[BMS] JAGG - Jagat Talkies: Guna": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1569,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -608,6 +889,22 @@
                             }
                         }
                     },
+                    "Palakkad": {
+                        "Venues": {
+                            "[BMS] NATP - New Aroma Theatre: Palakkad": {
+                                "Languages": [
+                                    "Tamil - Tamil"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1287,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
                     "Pulpally": {
                         "Venues": {
                             "[BMS] BLMT - Blue Moon Theatre: Pulpally": {
@@ -626,16 +923,16 @@
                     }
                 }
             },
-            "Chhattisgarh": {
+            "Uttar Pradesh": {
                 "Cities": {
-                    "Bhatgaon": {
+                    "Shikarpur": {
                         "Venues": {
-                            "[BMS] SMCB - Shree Mahal Cinema: Bhatgaon": {
+                            "[BMS] HAMC - Hem Cineplex: Shikarpur": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 765,
+                                "Venue_TotalSeats": 339,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -644,126 +941,70 @@
                             }
                         }
                     },
-                    "Surajpur": {
+                    "Aligarh": {
                         "Venues": {
-                            "[BMS] IMXS - IMAXX Multiplex: Surajpur": {
+                            "[BMS] MKNS - Meenakshi Cinema: Aligarh": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 618,
+                                "Venue_TotalSeats": 836,
                                 "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
+                                "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
                         }
                     },
-                    "Sheorinarayan": {
+                    "Kanpur": {
                         "Venues": {
-                            "[BMS] TMMS - Taksh Multiplex: Sheorinarayan": {
+                            "[BMS] PSXM - PVR: South X Mall, Kanpur": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 441,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Akaltara": {
-                        "Venues": {
-                            "[BMS] DLMT - DL Multiplex: Akaltara": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 825,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Kawardha": {
-                        "Venues": {
-                            "[BMS] MBTK - Maa Bhuvaneshwari Talkies: Kawardha": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 162,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Raigarh": {
-                        "Venues": {
-                            "[BMS] GALX - Galaxy Cinemas (Dolby Atmos): Raigarh": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 804,
+                                "Venue_TotalSeats": 2139,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 6,
                                 "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Katghora": {
-                        "Venues": {
-                            "[BMS] MMCK - Murli Metro Cinema: Katghora": {
+                            },
+                            "[BMS] PDDK - PVR: Deep, Kanpur": {
                                 "Languages": [
                                     "Hindi"
                                 ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 585,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_TotalRevenue": 6000.0,
+                                "Venue_TotalSeats": 1301,
+                                "Venue_TotalBookedSeats": 15,
+                                "Venue_TotalShows": 7,
+                                "Venue_OccupancyPercentage": 1.15,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] NYCH - NY Cinemas: Heer Palace, Kanpur": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 23100.0,
+                                "Venue_TotalSeats": 2784,
+                                "Venue_TotalBookedSeats": 60,
+                                "Venue_TotalShows": 12,
+                                "Venue_OccupancyPercentage": 2.16,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
                         }
                     },
-                    "Janjgir": {
+                    "Kushinagar": {
                         "Venues": {
-                            "[BMS] MCJR - Metro Cinema(Dolby 7.1 sound): Janjgir Naila": {
+                            "[BMS] PBLK - PB Cinemas: Kushinagar": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 528,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Lakhanpur": {
-                        "Venues": {
-                            "[BMS] SPJL - SPJ Multiplex: Lakhanpur (CG)": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 393,
+                                "Venue_TotalSeats": 300,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -794,6 +1035,62 @@
                     }
                 }
             },
+            "Uttarakhand": {
+                "Cities": {
+                    "Vikasnagar": {
+                        "Venues": {
+                            "[BMS] NWAD - Abhinav Cinema: Vikasnagar": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 102,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Haldwani": {
+                        "Venues": {
+                            "[BMS] LLCH - Laxmi Cineplex: Haldwani": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 315,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    }
+                }
+            },
+            "Ncr": {
+                "Cities": {
+                    "Ghaziabad": {
+                        "Venues": {
+                            "[BMS] GMGX - Galaxie Multiplex: Ghaziabad": {
+                                "Languages": [
+                                    "Hindi"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 3387,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 9,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    }
+                }
+            },
             "Himachal Pradesh": {
                 "Cities": {
                     "Baddi": {
@@ -814,47 +1111,19 @@
                     }
                 }
             },
-            "Tamil Nadu": {
+            "Rajasthan": {
                 "Cities": {
-                    "Ooty": {
+                    "Jaipur": {
                         "Venues": {
-                            "[BMS] ARRO - The Assembly Rooms: Ooty": {
+                            "[BMS] PACJ - Paras Cinema: Amer Road": {
                                 "Languages": [
                                     "Hindi"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 668,
+                                "Venue_TotalSeats": 981,
                                 "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 2,
+                                "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Chennai": {
-                        "Venues": {
-                            "[BMS] AGSM - AGS Cinemas: Maduravoyal": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 53932.0,
-                                "Venue_TotalSeats": 1476,
-                                "Venue_TotalBookedSeats": 374,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 25.34,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] ACTN - AGS Cinemas: T. Nagar": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 23264.0,
-                                "Venue_TotalSeats": 884,
-                                "Venue_TotalBookedSeats": 184,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 20.81,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
@@ -894,26 +1163,6 @@
                                 "Venue_TotalSeats": 720,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 6,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    }
-                }
-            },
-            "Uttarakhand": {
-                "Cities": {
-                    "Haldwani": {
-                        "Venues": {
-                            "[BMS] LLCH - Laxmi Cineplex: Haldwani": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 315,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
@@ -994,82 +1243,6 @@
                     }
                 }
             },
-            "Uttar Pradesh": {
-                "Cities": {
-                    "Aligarh": {
-                        "Venues": {
-                            "[BMS] MKNS - Meenakshi Cinema: Aligarh": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 836,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Kanpur": {
-                        "Venues": {
-                            "[BMS] PSXM - PVR: South X Mall, Kanpur": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 2139,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 6,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] NYCH - NY Cinemas: Heer Palace, Kanpur": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 23100.0,
-                                "Venue_TotalSeats": 2784,
-                                "Venue_TotalBookedSeats": 60,
-                                "Venue_TotalShows": 12,
-                                "Venue_OccupancyPercentage": 2.16,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] PDDK - PVR: Deep, Kanpur": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 1095,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 6,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
-                    "Kushinagar": {
-                        "Venues": {
-                            "[BMS] PBLK - PB Cinemas: Kushinagar": {
-                                "Languages": [
-                                    "Hindi"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 300,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    }
-                }
-            },
             "Goa": {
                 "Cities": {
                     "Ponda": {
@@ -1112,6 +1285,71 @@
             },
             "Andhra Pradesh": {
                 "Cities": {
+                    "Vizag": {
+                        "Venues": {
+                            "[BMS] MAVC - Mukta A2 Cinemas: Vizag (ONLY RECLINERS AND SOFAS)": {
+                                "Languages": [
+                                    "Hindi",
+                                    "Telugu - Telugu"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 803,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 7,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] STTR - Sarat Theater A/C 4K Dolby Atmos: Vizag": {
+                                "Languages": [
+                                    "Telugu - Telugu"
+                                ],
+                                "Venue_TotalRevenue": 35525.0,
+                                "Venue_TotalSeats": 2331,
+                                "Venue_TotalBookedSeats": 245,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 10.51,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] SRVV - Sri Venkateswara Theatres Dolby 7.1 4K A/C: Vizag": {
+                                "Languages": [
+                                    "Telugu - Telugu"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 918,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] SLKP - Sri Lakshmi Narasimha Picture Palace: 104 Area": {
+                                "Languages": [
+                                    "Telugu - Telugu"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 450,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] SNDG - Sri Narasimha AC Dts(Newly Renovated):Gopalapatnam": {
+                                "Languages": [
+                                    "Telugu - Telugu"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 399,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
                     "Vizag (visakhapatnam)": {
                         "Venues": {
                             "[BMS] SKRN - SreeKanya Theatre 4K Dolby Atmos: Rly New Colony": {
@@ -1150,13 +1388,13 @@
                                 "Languages": [
                                     "Telugu - Telugu"
                                 ],
-                                "Venue_TotalRevenue": 257880.0,
+                                "Venue_TotalRevenue": 40800.0,
                                 "Venue_TotalSeats": 2076,
-                                "Venue_TotalBookedSeats": 1668,
+                                "Venue_TotalBookedSeats": 240,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 80.35,
+                                "Venue_OccupancyPercentage": 11.56,
                                 "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 4
+                                "Venue_FastFillingShows": 0
                             },
                             "[BMS] NVRN - Navarang Theatre: Vijayawada": {
                                 "Languages": [
@@ -1220,58 +1458,6 @@
                             }
                         }
                     },
-                    "Vizag": {
-                        "Venues": {
-                            "[BMS] STTR - Sarat Theater A/C 4K Dolby Atmos: Vizag": {
-                                "Languages": [
-                                    "Telugu - Telugu"
-                                ],
-                                "Venue_TotalRevenue": 35525.0,
-                                "Venue_TotalSeats": 2331,
-                                "Venue_TotalBookedSeats": 245,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 10.51,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] SRVV - Sri Venkateswara Theatres Dolby 7.1 4K A/C: Vizag": {
-                                "Languages": [
-                                    "Telugu - Telugu"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 918,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] SLKP - Sri Lakshmi Narasimha Picture Palace: 104 Area": {
-                                "Languages": [
-                                    "Telugu - Telugu"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 450,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 2,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] SNDG - Sri Narasimha AC Dts(Newly Renovated):Gopalapatnam": {
-                                "Languages": [
-                                    "Telugu - Telugu"
-                                ],
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 399,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    },
                     "Jaggampeta": {
                         "Venues": {
                             "[BMS] NAGJ - Nageshwara A/c Dts: Jaggampeta": {
@@ -1319,13 +1505,13 @@
                 }
             }
         },
-        "Overall_TotalRevenue": 1456526.0,
-        "Overall_TotalSeats": 116105,
-        "Overall_TotalBookedSeats": 8950,
-        "Overall_TotalShows": 359,
-        "Overall_OccupancyPercentage": 7.71,
+        "Overall_TotalRevenue": 1409131.0,
+        "Overall_TotalSeats": 125481,
+        "Overall_TotalBookedSeats": 8613,
+        "Overall_TotalShows": 412,
+        "Overall_OccupancyPercentage": 6.86,
         "Overall_SoldOutShows": 1,
-        "Overall_FastFillingShows": 4
+        "Overall_FastFillingShows": 0
     },
     "Pre Historic Adventure 7D": {
         "Associated_Titles": [
@@ -1487,12 +1673,12 @@
                     },
                     "Palakkad": {
                         "Venues": {
-                            "[BMS] NATP - New Aroma Theatre: Palakkad": {
+                            "[BMS] ATPK - Aroma Theatre: Palakkad": {
                                 "Languages": [
                                     "Malayalam"
                                 ],
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 1716,
+                                "Venue_TotalSeats": 2264,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -1517,17 +1703,49 @@
                             }
                         }
                     },
+                    "Kochi": {
+                        "Venues": {
+                            "[BMS] GCFK - G Cinemas Fort Kochi: 4K Dolby ATMOS": {
+                                "Languages": [
+                                    "Malayalam"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1485,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
                     "Kothamangalam": {
                         "Venues": {
                             "[BMS] ANNK - ANN Cinema Complex 4K 3D Dolby Atmos RGB LASER": {
                                 "Languages": [
                                     "Malayalam"
                                 ],
-                                "Venue_TotalRevenue": 300.0,
-                                "Venue_TotalSeats": 2252,
-                                "Venue_TotalBookedSeats": 2,
+                                "Venue_TotalRevenue": 2250.0,
+                                "Venue_TotalSeats": 2265,
+                                "Venue_TotalBookedSeats": 15,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.09,
+                                "Venue_OccupancyPercentage": 0.66,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
+                    "Taliparamba": {
+                        "Venues": {
+                            "[BMS] CCTA - Classic Cinema 4K Dolby Atmos: Taliparamba": {
+                                "Languages": [
+                                    "Malayalam"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1740,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
@@ -1594,11 +1812,61 @@
                 }
             }
         },
-        "Overall_TotalRevenue": 492.0,
-        "Overall_TotalSeats": 14626,
-        "Overall_TotalBookedSeats": -8,
-        "Overall_TotalShows": 37,
-        "Overall_OccupancyPercentage": -0.05,
+        "Overall_TotalRevenue": 2442.0,
+        "Overall_TotalSeats": 18412,
+        "Overall_TotalBookedSeats": 5,
+        "Overall_TotalShows": 47,
+        "Overall_OccupancyPercentage": 0.03,
+        "Overall_SoldOutShows": 0,
+        "Overall_FastFillingShows": 0
+    },
+    "Thaai Kizhavi": {
+        "Associated_Titles": [
+            "Thaai Kizhavi - Tamil"
+        ],
+        "Languages": [
+            "Tamil"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thaai-kizhavi-et00488859-1771931113.jpg",
+        "Locations": {
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] ACVM - AGS Cinemas: Villivakkam": {
+                                "Languages": [
+                                    "Tamil"
+                                ],
+                                "Venue_TotalRevenue": 36660.0,
+                                "Venue_TotalSeats": 936,
+                                "Venue_TotalBookedSeats": 268,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 28.63,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] AGSM - AGS Cinemas: Maduravoyal": {
+                                "Languages": [
+                                    "Tamil"
+                                ],
+                                "Venue_TotalRevenue": 36840.0,
+                                "Venue_TotalSeats": 1368,
+                                "Venue_TotalBookedSeats": 300,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 21.93,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 73500.0,
+        "Overall_TotalSeats": 2304,
+        "Overall_TotalBookedSeats": 568,
+        "Overall_TotalShows": 8,
+        "Overall_OccupancyPercentage": 24.65,
         "Overall_SoldOutShows": 0,
         "Overall_FastFillingShows": 0
     },
@@ -1619,11 +1887,11 @@
                                 "Languages": [
                                     "Telugu"
                                 ],
-                                "Venue_TotalRevenue": 59320.0,
+                                "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 1892,
-                                "Venue_TotalBookedSeats": 265,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 14.01,
+                                "Venue_OccupancyPercentage": 0.0,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
@@ -1693,8 +1961,36 @@
                             }
                         }
                     },
+                    "Vizianagaram": {
+                        "Venues": {
+                            "[BMS] SKVZ - Sree Krishna Cinema 4K Dolby Atmos: Vizianagaram": {
+                                "Languages": [
+                                    "Telugu"
+                                ],
+                                "Venue_TotalRevenue": 151820.0,
+                                "Venue_TotalSeats": 2572,
+                                "Venue_TotalBookedSeats": 633,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 24.61,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
                     "Srikakulam": {
                         "Venues": {
+                            "[BMS] SUYA - Surya Mahal A/c Dts: Srikakulam": {
+                                "Languages": [
+                                    "Telugu"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 2132,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
                             "[BMS] SRSW - Sri Saraswathi Mahal 2K Dolby Atmos: Srikakulam": {
                                 "Languages": [
                                     "Telugu"
@@ -1704,18 +2000,6 @@
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            },
-                            "[BMS] SUYA - Surya Mahal A/c Dts: Srikakulam": {
-                                "Languages": [
-                                    "Telugu"
-                                ],
-                                "Venue_TotalRevenue": 24500.0,
-                                "Venue_TotalSeats": 2132,
-                                "Venue_TotalBookedSeats": 100,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 4.69,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
@@ -1759,11 +2043,11 @@
                                 "Languages": [
                                     "Telugu"
                                 ],
-                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalRevenue": 30000.0,
                                 "Venue_TotalSeats": 1908,
-                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalBookedSeats": 150,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_OccupancyPercentage": 7.86,
                                 "Venue_SoldOutShows": 0,
                                 "Venue_FastFillingShows": 0
                             }
@@ -1786,13 +2070,33 @@
                         }
                     }
                 }
+            },
+            "Odisha": {
+                "Cities": {
+                    "Berhampur": {
+                        "Venues": {
+                            "[BMS] GAUT - Gautam Cinema A/C Dolby Digital 2K: Berhampur": {
+                                "Languages": [
+                                    "Telugu"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 3264,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 6,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    }
+                }
             }
         },
-        "Overall_TotalRevenue": 541305.0,
-        "Overall_TotalSeats": 21848,
-        "Overall_TotalBookedSeats": 2330,
-        "Overall_TotalShows": 48,
-        "Overall_OccupancyPercentage": 10.66,
+        "Overall_TotalRevenue": 639305.0,
+        "Overall_TotalSeats": 27684,
+        "Overall_TotalBookedSeats": 2748,
+        "Overall_TotalShows": 58,
+        "Overall_OccupancyPercentage": 9.93,
         "Overall_SoldOutShows": 0,
         "Overall_FastFillingShows": 0
     },
@@ -2092,47 +2396,10 @@
         "Overall_SoldOutShows": 0,
         "Overall_FastFillingShows": 0
     },
-    "Thaai Kizhavi": {
-        "Associated_Titles": [
-            "Thaai Kizhavi - Tamil"
-        ],
-        "Languages": [
-            "Tamil"
-        ],
-        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thaai-kizhavi-et00488859-1771931113.jpg",
-        "Locations": {
-            "Tamil Nadu": {
-                "Cities": {
-                    "Chennai": {
-                        "Venues": {
-                            "[BMS] AGSM - AGS Cinemas: Maduravoyal": {
-                                "Languages": [
-                                    "Tamil"
-                                ],
-                                "Venue_TotalRevenue": 36840.0,
-                                "Venue_TotalSeats": 1368,
-                                "Venue_TotalBookedSeats": 300,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 21.93,
-                                "Venue_SoldOutShows": 0,
-                                "Venue_FastFillingShows": 0
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "Overall_TotalRevenue": 36840.0,
-        "Overall_TotalSeats": 1368,
-        "Overall_TotalBookedSeats": 300,
-        "Overall_TotalShows": 4,
-        "Overall_OccupancyPercentage": 21.93,
-        "Overall_SoldOutShows": 0,
-        "Overall_FastFillingShows": 0
-    },
     "Youth": {
         "Associated_Titles": [
-            "Youth - Tamil"
+            "Youth - Tamil",
+            "Youth"
         ],
         "Languages": [
             "Tamil"
@@ -2149,6 +2416,18 @@
                                 ],
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 3144,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            },
+                            "[BMS] GAHC - Gopalakrishna A/C 2K DOLBY 7.1-Karanodai(Redhills)": {
+                                "Languages": [
+                                    "Tamil"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1616,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0,
@@ -2172,14 +2451,28 @@
                                 "Venue_FastFillingShows": 0
                             }
                         }
+                    },
+                    "Pallipattu": {
+                        "Venues": {
+                            "[District] Sree Murugan Cinemas, Pallipattu": {
+                                "Languages": [],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 640,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
                     }
                 }
             }
         },
         "Overall_TotalRevenue": 0.0,
-        "Overall_TotalSeats": 5020,
+        "Overall_TotalSeats": 7276,
         "Overall_TotalBookedSeats": 0,
-        "Overall_TotalShows": 8,
+        "Overall_TotalShows": 16,
         "Overall_OccupancyPercentage": 0.0,
         "Overall_SoldOutShows": 0,
         "Overall_FastFillingShows": 0
@@ -2195,6 +2488,22 @@
         "Locations": {
             "Karnataka": {
                 "Cities": {
+                    "Kalaburagi (gulbarga)": {
+                        "Venues": {
+                            "[BMS] TTKG - Triveni Talkies: Kalaburagi": {
+                                "Languages": [
+                                    "Kannada"
+                                ],
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1800,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0,
+                                "Venue_SoldOutShows": 0,
+                                "Venue_FastFillingShows": 0
+                            }
+                        }
+                    },
                     "Bhadravati": {
                         "Venues": {
                             "[BMS] VATB - Veerbhadreshwara Theatre: Bhadravati": {
@@ -2231,9 +2540,9 @@
             }
         },
         "Overall_TotalRevenue": 0.0,
-        "Overall_TotalSeats": 1612,
+        "Overall_TotalSeats": 3412,
         "Overall_TotalBookedSeats": 0,
-        "Overall_TotalShows": 8,
+        "Overall_TotalShows": 12,
         "Overall_OccupancyPercentage": 0.0,
         "Overall_SoldOutShows": 0,
         "Overall_FastFillingShows": 0

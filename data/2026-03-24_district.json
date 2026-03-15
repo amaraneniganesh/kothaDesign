@@ -57,13 +57,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 21,
-        "totalSeats": 12334,
-        "seatsAvailable": 9748,
+        "totalShows": 24,
+        "totalSeats": 13288,
+        "seatsAvailable": 10702,
         "seatsSold": 2586,
-        "occupancy": 20.97,
+        "occupancy": 19.46,
         "totalRevenue": 346900.0,
-        "totalTheatres": 6
+        "totalTheatres": 7
       },
       "states": {
         "madhya-pradesh": {
@@ -161,6 +161,29 @@
                     "totalShows": 4,
                     "totalSeats": 2176,
                     "seatsAvailable": 2176,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Mahbubnagar": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 954,
+                "seatsAvailable": 954,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1039864": {
+                  "theatreName": "Mythri Sri Krishna Theatre, Near Rainbow Concept School, Mahbubnagar",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 954,
+                    "seatsAvailable": 954,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -388,6 +411,57 @@
                     "seatsSold": 308,
                     "occupancy": 17.07,
                     "totalRevenue": 41900.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Youth": {
+      "id": "OB8CO1",
+      "name": "Youth",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-65fdaac0-05a2-11f1-adea-2ddc896211a4-ea6822c0-16de-11f1-aecc-fbbcea8cf963.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 640,
+        "seatsAvailable": 640,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Pallipattu": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 640,
+                "seatsAvailable": 640,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1037532": {
+                  "theatreName": "Sree Murugan Cinemas, Pallipattu",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 640,
+                    "seatsAvailable": 640,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
