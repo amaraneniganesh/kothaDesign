@@ -1,5 +1,16 @@
 [
   {
+    "id": 9159,
+    "cinemaName": "Santhi Cinema, Beside Honda Showroom, Vuyyuru",
+    "address": "Katuru Rd, Beside Honda Showroom, Vuyyuru, Andhra Pradesh 521165, India",
+    "city": "Vuyyuru",
+    "state": "andhra-pradesh",
+    "pincode": "521165",
+    "latitude": 16.367525,
+    "longitude": 80.843196,
+    "chainKey": "Shanti Theater"
+  },
+  {
     "id": 7686,
     "cinemaName": "Ksps Ganapathy Kalaiarangam 4K RGB Laser, Dolby Atmos",
     "address": "Boltenpuram, 2nd Street, Tuticorin, Tamil Nadu 628003, India",
