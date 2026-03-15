@@ -80,13 +80,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 57,
-        "totalSeats": 19823,
-        "seatsAvailable": 15869,
-        "seatsSold": 3954,
-        "occupancy": 19.95,
-        "totalRevenue": 622409.0,
-        "totalTheatres": 12
+        "totalShows": 72,
+        "totalSeats": 24686,
+        "seatsAvailable": 20250,
+        "seatsSold": 4436,
+        "occupancy": 17.97,
+        "totalRevenue": 732004.62,
+        "totalTheatres": 17
       },
       "states": {
         "andhra-pradesh": {
@@ -124,6 +124,41 @@
             }
           }
         },
+        "bihar": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Purnia": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1028,
+                "seatsAvailable": 902,
+                "seatsSold": 126,
+                "occupancy": 12.26,
+                "totalRevenue": 37250.0
+              },
+              "theatres": {
+                "9131": {
+                  "theatreName": "Roopbani Cinema 2K Dolby 7.1, Mehboob Khan Tola, Purnia",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1028,
+                    "seatsAvailable": 902,
+                    "seatsSold": 126,
+                    "occupancy": 12.26,
+                    "totalRevenue": 37250.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "jharkhand": {
           "stateStats": {
             "totalShows": 0,
@@ -136,20 +171,66 @@
           "cities": {
             "Giridih": {
               "cityStats": {
-                "totalShows": 6,
-                "totalSeats": 900,
-                "seatsAvailable": 900,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
+                "totalShows": 9,
+                "totalSeats": 1317,
+                "seatsAvailable": 1302,
+                "seatsSold": 15,
+                "occupancy": 1.14,
+                "totalRevenue": 4500.0
               },
               "theatres": {
+                "1018468": {
+                  "theatreName": "V Orbit Cinema, Paratdih, Giridih",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 417,
+                    "seatsAvailable": 402,
+                    "seatsSold": 15,
+                    "occupancy": 3.6,
+                    "totalRevenue": 4500.0
+                  }
+                },
                 "7826": {
                   "theatreName": "Swarn Cinemas, Bhandaridih, Giridih",
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 900,
                     "seatsAvailable": 900,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "madhya-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Jhabua": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 324,
+                "seatsAvailable": 324,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "54684": {
+                  "theatreName": "Royal Cinema, Nehru Marg Rajwada Chowk, Jhabua",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 324,
+                    "seatsAvailable": 324,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -171,23 +252,34 @@
           "cities": {
             "Chennai": {
               "cityStats": {
-                "totalShows": 3,
-                "totalSeats": 828,
-                "seatsAvailable": 773,
-                "seatsSold": 55,
-                "occupancy": 6.64,
-                "totalRevenue": 11275.0
+                "totalShows": 4,
+                "totalSeats": 1746,
+                "seatsAvailable": 1402,
+                "seatsSold": 344,
+                "occupancy": 19.7,
+                "totalRevenue": 56640.62
               },
               "theatres": {
+                "1042615": {
+                  "theatreName": "EGA Cinemas (RGB LASER | Dolby Audio | Couple Sofa), Kilpauk, Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 918,
+                    "seatsAvailable": 632,
+                    "seatsSold": 286,
+                    "occupancy": 31.15,
+                    "totalRevenue": 44750.62
+                  }
+                },
                 "1102133": {
                   "theatreName": "Rakki Cinemas, Omr, Kelambakkam, Chennai",
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 828,
-                    "seatsAvailable": 773,
-                    "seatsSold": 55,
-                    "occupancy": 6.64,
-                    "totalRevenue": 11275.0
+                    "seatsAvailable": 770,
+                    "seatsSold": 58,
+                    "occupancy": 7.0,
+                    "totalRevenue": 11890.0
                   }
                 }
               }
@@ -196,10 +288,10 @@
               "cityStats": {
                 "totalShows": 3,
                 "totalSeats": 1050,
-                "seatsAvailable": 1025,
-                "seatsSold": 25,
-                "occupancy": 2.38,
-                "totalRevenue": 5000.0
+                "seatsAvailable": 1013,
+                "seatsSold": 37,
+                "occupancy": 3.52,
+                "totalRevenue": 7400.0
               },
               "theatres": {
                 "1015289": {
@@ -207,10 +299,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 1050,
-                    "seatsAvailable": 1025,
-                    "seatsSold": 25,
-                    "occupancy": 2.38,
-                    "totalRevenue": 5000.0
+                    "seatsAvailable": 1013,
+                    "seatsSold": 37,
+                    "occupancy": 3.52,
+                    "totalRevenue": 7400.0
                   }
                 }
               }
@@ -231,10 +323,10 @@
               "cityStats": {
                 "totalShows": 11,
                 "totalSeats": 6483,
-                "seatsAvailable": 4169,
-                "seatsSold": 2314,
-                "occupancy": 35.69,
-                "totalRevenue": 310050.0
+                "seatsAvailable": 4165,
+                "seatsSold": 2318,
+                "occupancy": 35.76,
+                "totalRevenue": 311450.0
               },
               "theatres": {
                 "1041683": {
@@ -242,10 +334,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 1951,
-                    "seatsAvailable": 1952,
-                    "seatsSold": -1,
-                    "occupancy": -0.05,
-                    "totalRevenue": -75.0
+                    "seatsAvailable": 1948,
+                    "seatsSold": 3,
+                    "occupancy": 0.15,
+                    "totalRevenue": 1325.0
                   }
                 },
                 "13958": {
@@ -291,6 +383,29 @@
                     "seatsSold": 338,
                     "occupancy": 13.39,
                     "totalRevenue": 59150.0
+                  }
+                }
+              }
+            },
+            "Kothagudem": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2176,
+                "seatsAvailable": 2176,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "7752": {
+                  "theatreName": "SVC Poorna Picture Palace, RTC Bus Stand Center, Kothagudem",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2176,
+                    "seatsAvailable": 2176,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -357,10 +472,10 @@
               "cityStats": {
                 "totalShows": 12,
                 "totalSeats": 2384,
-                "seatsAvailable": 2230,
-                "seatsSold": 154,
-                "occupancy": 6.46,
-                "totalRevenue": 82280.0
+                "seatsAvailable": 2206,
+                "seatsSold": 178,
+                "occupancy": 7.47,
+                "totalRevenue": 98060.0
               },
               "theatres": {
                 "25281": {
@@ -368,10 +483,10 @@
                   "stats": {
                     "totalShows": 12,
                     "totalSeats": 2384,
-                    "seatsAvailable": 2230,
-                    "seatsSold": 154,
-                    "occupancy": 6.46,
-                    "totalRevenue": 82280.0
+                    "seatsAvailable": 2206,
+                    "seatsSold": 178,
+                    "occupancy": 7.47,
+                    "totalRevenue": 98060.0
                   }
                 }
               }
@@ -392,10 +507,10 @@
               "cityStats": {
                 "totalShows": 8,
                 "totalSeats": 1184,
-                "seatsAvailable": 1040,
-                "seatsSold": 144,
-                "occupancy": 12.16,
-                "totalRevenue": 36000.0
+                "seatsAvailable": 1028,
+                "seatsSold": 156,
+                "occupancy": 13.18,
+                "totalRevenue": 38900.0
               },
               "theatres": {
                 "4163": {
@@ -403,10 +518,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 1184,
-                    "seatsAvailable": 1040,
-                    "seatsSold": 144,
-                    "occupancy": 12.16,
-                    "totalRevenue": 36000.0
+                    "seatsAvailable": 1028,
+                    "seatsSold": 156,
+                    "occupancy": 13.18,
+                    "totalRevenue": 38900.0
                   }
                 }
               }
@@ -482,13 +597,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-fde36fe0-1d31-11f1-a16d-c13dd9a21c00.jpg",
       "overallStats": {
-        "totalShows": 26,
-        "totalSeats": 15354,
-        "seatsAvailable": 13118,
-        "seatsSold": 2236,
-        "occupancy": 14.56,
-        "totalRevenue": 275390.0,
-        "totalTheatres": 7
+        "totalShows": 30,
+        "totalSeats": 17082,
+        "seatsAvailable": 14620,
+        "seatsSold": 2462,
+        "occupancy": 14.41,
+        "totalRevenue": 299070.0,
+        "totalTheatres": 8
       },
       "states": {
         "andhra-pradesh": {
@@ -505,10 +620,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 2252,
-                "seatsAvailable": 1922,
-                "seatsSold": 330,
-                "occupancy": 14.65,
-                "totalRevenue": 40990.0
+                "seatsAvailable": 1918,
+                "seatsSold": 334,
+                "occupancy": 14.83,
+                "totalRevenue": 41360.0
               },
               "theatres": {
                 "4425": {
@@ -516,10 +631,33 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2252,
-                    "seatsAvailable": 1922,
-                    "seatsSold": 330,
-                    "occupancy": 14.65,
-                    "totalRevenue": 40990.0
+                    "seatsAvailable": 1918,
+                    "seatsSold": 334,
+                    "occupancy": 14.83,
+                    "totalRevenue": 41360.0
+                  }
+                }
+              }
+            },
+            "Srikalahasti": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1728,
+                "seatsAvailable": 1506,
+                "seatsSold": 222,
+                "occupancy": 12.85,
+                "totalRevenue": 23310.0
+              },
+              "theatres": {
+                "1031639": {
+                  "theatreName": "K3K RR Picture Palace 4K Dolby Atmos, Srikalahasti",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1728,
+                    "seatsAvailable": 1506,
+                    "seatsSold": 222,
+                    "occupancy": 12.85,
+                    "totalRevenue": 23310.0
                   }
                 }
               }
@@ -683,13 +821,13 @@
       "name": "Youth",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-65fdaac0-05a2-11f1-adea-2ddc896211a4-ea6822c0-16de-11f1-aecc-fbbcea8cf963.jpg",
       "overallStats": {
-        "totalShows": 1,
-        "totalSeats": 276,
-        "seatsAvailable": 275,
-        "seatsSold": 1,
-        "occupancy": 0.36,
-        "totalRevenue": 190.0,
-        "totalTheatres": 1
+        "totalShows": 9,
+        "totalSeats": 2356,
+        "seatsAvailable": 2267,
+        "seatsSold": 89,
+        "occupancy": 3.78,
+        "totalRevenue": 12670.0,
+        "totalTheatres": 3
       },
       "states": {
         "tamil-nadu": {
@@ -704,14 +842,25 @@
           "cities": {
             "Chennai": {
               "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 276,
-                "seatsAvailable": 275,
-                "seatsSold": 1,
-                "occupancy": 0.36,
-                "totalRevenue": 190.0
+                "totalShows": 5,
+                "totalSeats": 2044,
+                "seatsAvailable": 1955,
+                "seatsSold": 89,
+                "occupancy": 4.35,
+                "totalRevenue": 12670.0
               },
               "theatres": {
+                "1016088": {
+                  "theatreName": "SRK Cinemas Barco 4K Laser Triplebeam 3D, Chengalpattu",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1768,
+                    "seatsAvailable": 1680,
+                    "seatsSold": 88,
+                    "occupancy": 4.98,
+                    "totalRevenue": 12480.0
+                  }
+                },
                 "1102133": {
                   "theatreName": "Rakki Cinemas, Omr, Kelambakkam, Chennai",
                   "stats": {
@@ -721,6 +870,29 @@
                     "seatsSold": 1,
                     "occupancy": 0.36,
                     "totalRevenue": 190.0
+                  }
+                }
+              }
+            },
+            "Uthukottai": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 312,
+                "seatsAvailable": 312,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "3896": {
+                  "theatreName": "Sri Kumari Cinemas, Nagalapuram Road, Uthukottai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 312,
+                    "seatsAvailable": 312,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }

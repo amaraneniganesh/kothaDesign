@@ -382,6 +382,57 @@
         }
       }
     },
+    "Bambukat 2": {
+      "id": "OB7UCT",
+      "name": "Bambukat 2",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Bambukat-2-fcef6190-fde5-11f0-a7dc-95ca58c8a6f8.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 357,
+        "seatsAvailable": 357,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "punjab": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Amritsar": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 357,
+                "seatsAvailable": 357,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 357,
+                    "seatsAvailable": 357,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Dark Night": {
       "id": "OB8MXO",
       "name": "Dark Night",
@@ -512,13 +563,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-ea86c5a0-1d31-11f1-96c9-4539b6d27dc7.jpg",
       "overallStats": {
-        "totalShows": 50,
-        "totalSeats": 23925,
-        "seatsAvailable": 17327,
-        "seatsSold": 6598,
-        "occupancy": 27.58,
-        "totalRevenue": 963047.48,
-        "totalTheatres": 23
+        "totalShows": 54,
+        "totalSeats": 25343,
+        "seatsAvailable": 18562,
+        "seatsSold": 6781,
+        "occupancy": 26.76,
+        "totalRevenue": 993511.93,
+        "totalTheatres": 25
       },
       "states": {
         "tamil-nadu": {
@@ -535,10 +586,10 @@
               "cityStats": {
                 "totalShows": 41,
                 "totalSeats": 20413,
-                "seatsAvailable": 14310,
-                "seatsSold": 6103,
-                "occupancy": 29.9,
-                "totalRevenue": 878157.48
+                "seatsAvailable": 14159,
+                "seatsSold": 6254,
+                "occupancy": 30.64,
+                "totalRevenue": 902401.93
               },
               "theatres": {
                 "1016088": {
@@ -557,10 +608,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1774,
-                    "seatsAvailable": 1395,
-                    "seatsSold": 379,
-                    "occupancy": 21.36,
-                    "totalRevenue": 45752.5
+                    "seatsAvailable": 1384,
+                    "seatsSold": 390,
+                    "occupancy": 21.98,
+                    "totalRevenue": 47774.3
                   }
                 },
                 "1037502": {
@@ -568,10 +619,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1082,
-                    "seatsAvailable": 975,
-                    "seatsSold": 107,
-                    "occupancy": 9.89,
-                    "totalRevenue": -3210.0
+                    "seatsAvailable": 970,
+                    "seatsSold": 112,
+                    "occupancy": 10.35,
+                    "totalRevenue": -2560.0
                   }
                 },
                 "1037507": {
@@ -579,10 +630,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1062,
-                    "seatsAvailable": 406,
-                    "seatsSold": 656,
-                    "occupancy": 61.77,
-                    "totalRevenue": 99360.0
+                    "seatsAvailable": 387,
+                    "seatsSold": 675,
+                    "occupancy": 63.56,
+                    "totalRevenue": 102210.0
                   }
                 },
                 "1037511": {
@@ -590,10 +641,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1484,
-                    "seatsAvailable": 1373,
-                    "seatsSold": 111,
-                    "occupancy": 7.48,
-                    "totalRevenue": 16650.0
+                    "seatsAvailable": 1372,
+                    "seatsSold": 112,
+                    "occupancy": 7.55,
+                    "totalRevenue": 16800.0
                   }
                 },
                 "1042465": {
@@ -601,10 +652,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1218,
-                    "seatsAvailable": 814,
-                    "seatsSold": 404,
-                    "occupancy": 33.17,
-                    "totalRevenue": 55680.0
+                    "seatsAvailable": 805,
+                    "seatsSold": 413,
+                    "occupancy": 33.91,
+                    "totalRevenue": 56950.0
                   }
                 },
                 "1042615": {
@@ -612,10 +663,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 918,
-                    "seatsAvailable": 761,
-                    "seatsSold": 157,
-                    "occupancy": 17.1,
-                    "totalRevenue": 16947.2
+                    "seatsAvailable": 759,
+                    "seatsSold": 159,
+                    "occupancy": 17.32,
+                    "totalRevenue": 17314.8
                   }
                 },
                 "1042635": {
@@ -623,10 +674,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 602,
-                    "seatsAvailable": 538,
-                    "seatsSold": 64,
-                    "occupancy": 10.63,
-                    "totalRevenue": 9600.0
+                    "seatsAvailable": 537,
+                    "seatsSold": 65,
+                    "occupancy": 10.8,
+                    "totalRevenue": 9750.0
                   }
                 },
                 "1042640": {
@@ -634,10 +685,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1264,
-                    "seatsAvailable": 1173,
-                    "seatsSold": 91,
-                    "occupancy": 7.2,
-                    "totalRevenue": 13650.0
+                    "seatsAvailable": 1160,
+                    "seatsSold": 104,
+                    "occupancy": 8.23,
+                    "totalRevenue": 15600.0
                   }
                 },
                 "1049666": {
@@ -656,10 +707,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 914,
-                    "seatsAvailable": 550,
-                    "seatsSold": 364,
-                    "occupancy": 39.82,
-                    "totalRevenue": 69160.0
+                    "seatsAvailable": 535,
+                    "seatsSold": 379,
+                    "occupancy": 41.47,
+                    "totalRevenue": 72010.0
                   }
                 },
                 "1102116": {
@@ -678,10 +729,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 2150,
-                    "seatsAvailable": 892,
-                    "seatsSold": 1258,
-                    "occupancy": 58.51,
-                    "totalRevenue": 231220.4
+                    "seatsAvailable": 881,
+                    "seatsSold": 1269,
+                    "occupancy": 59.02,
+                    "totalRevenue": 233242.2
                   }
                 },
                 "1102133": {
@@ -689,10 +740,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 834,
-                    "seatsAvailable": 716,
-                    "seatsSold": 118,
-                    "occupancy": 14.15,
-                    "totalRevenue": 19420.0
+                    "seatsAvailable": 702,
+                    "seatsSold": 132,
+                    "occupancy": 15.83,
+                    "totalRevenue": 21680.0
                   }
                 },
                 "4184": {
@@ -700,10 +751,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 2094,
-                    "seatsAvailable": 1670,
-                    "seatsSold": 424,
-                    "occupancy": 20.25,
-                    "totalRevenue": 49191.08
+                    "seatsAvailable": 1649,
+                    "seatsSold": 445,
+                    "occupancy": 21.25,
+                    "totalRevenue": 53050.88
                   }
                 },
                 "4248": {
@@ -711,10 +762,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 944,
-                    "seatsAvailable": 595,
-                    "seatsSold": 349,
-                    "occupancy": 36.97,
-                    "totalRevenue": 42410.0
+                    "seatsAvailable": 592,
+                    "seatsSold": 352,
+                    "occupancy": 37.29,
+                    "totalRevenue": 42790.0
                   }
                 },
                 "4891": {
@@ -722,10 +773,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 675,
-                    "seatsAvailable": 380,
-                    "seatsSold": 295,
-                    "occupancy": 43.7,
-                    "totalRevenue": 46650.6
+                    "seatsAvailable": 371,
+                    "seatsSold": 304,
+                    "occupancy": 45.04,
+                    "totalRevenue": 48008.2
                   }
                 },
                 "5059": {
@@ -733,10 +784,33 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1880,
-                    "seatsAvailable": 679,
-                    "seatsSold": 1201,
-                    "occupancy": 63.88,
-                    "totalRevenue": 143945.7
+                    "seatsAvailable": 662,
+                    "seatsSold": 1218,
+                    "occupancy": 64.79,
+                    "totalRevenue": 146051.55
+                  }
+                }
+              }
+            },
+            "Dharapuram": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 506,
+                "seatsAvailable": 506,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "58633": {
+                  "theatreName": "Sri Sakthi Cinemas SVR, Dharapuram",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 506,
+                    "seatsAvailable": 506,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -745,10 +819,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1518,
-                "seatsAvailable": 1283,
-                "seatsSold": 235,
-                "occupancy": 15.48,
-                "totalRevenue": 43660.0
+                "seatsAvailable": 1265,
+                "seatsSold": 253,
+                "occupancy": 16.67,
+                "totalRevenue": 47080.0
               },
               "theatres": {
                 "1015289": {
@@ -756,10 +830,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 406,
-                    "seatsAvailable": 270,
-                    "seatsSold": 136,
-                    "occupancy": 33.5,
-                    "totalRevenue": 25840.0
+                    "seatsAvailable": 252,
+                    "seatsSold": 154,
+                    "occupancy": 37.93,
+                    "totalRevenue": 29260.0
                   }
                 },
                 "1034383": {
@@ -802,10 +876,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 360,
-                "seatsAvailable": 238,
-                "seatsSold": 122,
-                "occupancy": 33.89,
-                "totalRevenue": 24400.0
+                "seatsAvailable": 224,
+                "seatsSold": 136,
+                "occupancy": 37.78,
+                "totalRevenue": 27200.0
               },
               "theatres": {
                 "1041242": {
@@ -813,10 +887,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 360,
-                    "seatsAvailable": 238,
-                    "seatsSold": 122,
-                    "occupancy": 33.89,
-                    "totalRevenue": 24400.0
+                    "seatsAvailable": 224,
+                    "seatsSold": 136,
+                    "occupancy": 37.78,
+                    "totalRevenue": 27200.0
                   }
                 }
               }
@@ -843,6 +917,29 @@
                   }
                 }
               }
+            },
+            "Tirunelveli": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 912,
+                "seatsAvailable": 912,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "25045": {
+                  "theatreName": "Alangar Cinemas 4K RGB Laser Dolby Atmos, Melapalayam, Tirunelveli",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 912,
+                    "seatsAvailable": 912,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
             }
           }
         }
@@ -853,13 +950,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 228,
-        "totalSeats": 60538,
-        "seatsAvailable": 43574,
-        "seatsSold": 16964,
-        "occupancy": 28.02,
-        "totalRevenue": 3589631.62,
-        "totalTheatres": 85
+        "totalShows": 231,
+        "totalSeats": 61131,
+        "seatsAvailable": 43491,
+        "seatsSold": 17640,
+        "occupancy": 28.86,
+        "totalRevenue": 3732892.32,
+        "totalTheatres": 87
       },
       "states": {
         "Unknown": {
@@ -911,10 +1008,10 @@
               "cityStats": {
                 "totalShows": 5,
                 "totalSeats": 804,
-                "seatsAvailable": 324,
-                "seatsSold": 480,
-                "occupancy": 59.7,
-                "totalRevenue": 107625.0
+                "seatsAvailable": 294,
+                "seatsSold": 510,
+                "occupancy": 63.43,
+                "totalRevenue": 112835.0
               },
               "theatres": {
                 "4272": {
@@ -922,10 +1019,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 216,
-                    "seatsAvailable": 105,
-                    "seatsSold": 111,
-                    "occupancy": 51.39,
-                    "totalRevenue": 18870.0
+                    "seatsAvailable": 91,
+                    "seatsSold": 125,
+                    "occupancy": 57.87,
+                    "totalRevenue": 21250.0
                   }
                 },
                 "7350": {
@@ -933,10 +1030,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 588,
-                    "seatsAvailable": 219,
-                    "seatsSold": 369,
-                    "occupancy": 62.76,
-                    "totalRevenue": 88755.0
+                    "seatsAvailable": 203,
+                    "seatsSold": 385,
+                    "occupancy": 65.48,
+                    "totalRevenue": 91585.0
                   }
                 }
               }
@@ -957,10 +1054,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 263,
-                "seatsAvailable": 107,
-                "seatsSold": 156,
-                "occupancy": 59.32,
-                "totalRevenue": 29500.0
+                "seatsAvailable": 104,
+                "seatsSold": 159,
+                "occupancy": 60.46,
+                "totalRevenue": 30031.0
               },
               "theatres": {
                 "1019166": {
@@ -968,10 +1065,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 263,
-                    "seatsAvailable": 107,
-                    "seatsSold": 156,
-                    "occupancy": 59.32,
-                    "totalRevenue": 29500.0
+                    "seatsAvailable": 104,
+                    "seatsSold": 159,
+                    "occupancy": 60.46,
+                    "totalRevenue": 30031.0
                   }
                 }
               }
@@ -980,10 +1077,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 890,
-                "seatsAvailable": 226,
-                "seatsSold": 664,
-                "occupancy": 74.61,
-                "totalRevenue": 128560.0
+                "seatsAvailable": 206,
+                "seatsSold": 684,
+                "occupancy": 76.85,
+                "totalRevenue": 132100.0
               },
               "theatres": {
                 "1020333": {
@@ -991,10 +1088,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 890,
-                    "seatsAvailable": 226,
-                    "seatsSold": 664,
-                    "occupancy": 74.61,
-                    "totalRevenue": 128560.0
+                    "seatsAvailable": 206,
+                    "seatsSold": 684,
+                    "occupancy": 76.85,
+                    "totalRevenue": 132100.0
                   }
                 }
               }
@@ -1003,10 +1100,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 512,
-                "seatsAvailable": 144,
-                "seatsSold": 368,
-                "occupancy": 71.88,
-                "totalRevenue": 69620.0
+                "seatsAvailable": 132,
+                "seatsSold": 380,
+                "occupancy": 74.22,
+                "totalRevenue": 71744.0
               },
               "theatres": {
                 "15527": {
@@ -1014,10 +1111,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 512,
-                    "seatsAvailable": 144,
-                    "seatsSold": 368,
-                    "occupancy": 71.88,
-                    "totalRevenue": 69620.0
+                    "seatsAvailable": 132,
+                    "seatsSold": 380,
+                    "occupancy": 74.22,
+                    "totalRevenue": 71744.0
                   }
                 }
               }
@@ -1026,10 +1123,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 426,
-                "seatsAvailable": 137,
-                "seatsSold": 289,
-                "occupancy": 67.84,
-                "totalRevenue": 55873.0
+                "seatsAvailable": 135,
+                "seatsSold": 291,
+                "occupancy": 68.31,
+                "totalRevenue": 56227.0
               },
               "theatres": {
                 "1041782": {
@@ -1037,10 +1134,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 426,
-                    "seatsAvailable": 137,
-                    "seatsSold": 289,
-                    "occupancy": 67.84,
-                    "totalRevenue": 55873.0
+                    "seatsAvailable": 135,
+                    "seatsSold": 291,
+                    "occupancy": 68.31,
+                    "totalRevenue": 56227.0
                   }
                 }
               }
@@ -1061,10 +1158,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 514,
-                "seatsAvailable": 149,
-                "seatsSold": 365,
-                "occupancy": 71.01,
-                "totalRevenue": 115900.0
+                "seatsAvailable": 142,
+                "seatsSold": 372,
+                "occupancy": 72.37,
+                "totalRevenue": 118000.0
               },
               "theatres": {
                 "9131": {
@@ -1072,10 +1169,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 514,
-                    "seatsAvailable": 149,
-                    "seatsSold": 365,
-                    "occupancy": 71.01,
-                    "totalRevenue": 115900.0
+                    "seatsAvailable": 142,
+                    "seatsSold": 372,
+                    "occupancy": 72.37,
+                    "totalRevenue": 118000.0
                   }
                 }
               }
@@ -1096,10 +1193,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 478,
-                "seatsAvailable": 475,
-                "seatsSold": 3,
-                "occupancy": 0.63,
-                "totalRevenue": 600.0
+                "seatsAvailable": 471,
+                "seatsSold": 7,
+                "occupancy": 1.46,
+                "totalRevenue": 1200.0
               },
               "theatres": {
                 "7753": {
@@ -1107,10 +1204,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 478,
-                    "seatsAvailable": 475,
-                    "seatsSold": 3,
-                    "occupancy": 0.63,
-                    "totalRevenue": 600.0
+                    "seatsAvailable": 471,
+                    "seatsSold": 7,
+                    "occupancy": 1.46,
+                    "totalRevenue": 1200.0
                   }
                 }
               }
@@ -1166,10 +1263,10 @@
               "cityStats": {
                 "totalShows": 12,
                 "totalSeats": 2832,
-                "seatsAvailable": 2500,
-                "seatsSold": 332,
-                "occupancy": 11.72,
-                "totalRevenue": 105420.0
+                "seatsAvailable": 2485,
+                "seatsSold": 347,
+                "occupancy": 12.25,
+                "totalRevenue": 110160.0
               },
               "theatres": {
                 "1012136": {
@@ -1177,10 +1274,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 998,
-                    "seatsAvailable": 873,
-                    "seatsSold": 125,
-                    "occupancy": 12.53,
-                    "totalRevenue": 44450.0
+                    "seatsAvailable": 871,
+                    "seatsSold": 127,
+                    "occupancy": 12.73,
+                    "totalRevenue": 45550.0
                   }
                 },
                 "4106": {
@@ -1188,10 +1285,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1084,
-                    "seatsAvailable": 877,
-                    "seatsSold": 207,
-                    "occupancy": 19.1,
-                    "totalRevenue": 60970.0
+                    "seatsAvailable": 864,
+                    "seatsSold": 220,
+                    "occupancy": 20.3,
+                    "totalRevenue": 64610.0
                   }
                 },
                 "7308": {
@@ -1211,10 +1308,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 352,
-                "seatsAvailable": 253,
-                "seatsSold": 99,
-                "occupancy": 28.12,
-                "totalRevenue": 31850.0
+                "seatsAvailable": 252,
+                "seatsSold": 100,
+                "occupancy": 28.41,
+                "totalRevenue": 32200.0
               },
               "theatres": {
                 "1055117": {
@@ -1222,10 +1319,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 352,
-                    "seatsAvailable": 253,
-                    "seatsSold": 99,
-                    "occupancy": 28.12,
-                    "totalRevenue": 31850.0
+                    "seatsAvailable": 252,
+                    "seatsSold": 100,
+                    "occupancy": 28.41,
+                    "totalRevenue": 32200.0
                   }
                 }
               }
@@ -1280,10 +1377,10 @@
               "cityStats": {
                 "totalShows": 5,
                 "totalSeats": 926,
-                "seatsAvailable": 882,
-                "seatsSold": 44,
-                "occupancy": 4.75,
-                "totalRevenue": 14300.0
+                "seatsAvailable": 878,
+                "seatsSold": 48,
+                "occupancy": 5.18,
+                "totalRevenue": 15300.0
               },
               "theatres": {
                 "19294": {
@@ -1291,10 +1388,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 926,
-                    "seatsAvailable": 882,
-                    "seatsSold": 44,
-                    "occupancy": 4.75,
-                    "totalRevenue": 14300.0
+                    "seatsAvailable": 878,
+                    "seatsSold": 48,
+                    "occupancy": 5.18,
+                    "totalRevenue": 15300.0
                   }
                 }
               }
@@ -1361,10 +1458,10 @@
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1339,
-                "seatsAvailable": 986,
-                "seatsSold": 353,
-                "occupancy": 26.36,
-                "totalRevenue": 105900.0
+                "seatsAvailable": 966,
+                "seatsSold": 373,
+                "occupancy": 27.86,
+                "totalRevenue": 111900.0
               },
               "theatres": {
                 "5105": {
@@ -1372,10 +1469,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1339,
-                    "seatsAvailable": 986,
-                    "seatsSold": 353,
-                    "occupancy": 26.36,
-                    "totalRevenue": 105900.0
+                    "seatsAvailable": 966,
+                    "seatsSold": 373,
+                    "occupancy": 27.86,
+                    "totalRevenue": 111900.0
                   }
                 }
               }
@@ -1384,10 +1481,10 @@
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1594,
-                "seatsAvailable": 1302,
-                "seatsSold": 292,
-                "occupancy": 18.32,
-                "totalRevenue": 121550.0
+                "seatsAvailable": 1274,
+                "seatsSold": 320,
+                "occupancy": 20.08,
+                "totalRevenue": 129950.0
               },
               "theatres": {
                 "6079": {
@@ -1395,10 +1492,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1594,
-                    "seatsAvailable": 1302,
-                    "seatsSold": 292,
-                    "occupancy": 18.32,
-                    "totalRevenue": 121550.0
+                    "seatsAvailable": 1274,
+                    "seatsSold": 320,
+                    "occupancy": 20.08,
+                    "totalRevenue": 129950.0
                   }
                 }
               }
@@ -1442,10 +1539,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 186,
-                "seatsAvailable": 165,
-                "seatsSold": 21,
-                "occupancy": 11.29,
-                "totalRevenue": 5250.0
+                "seatsAvailable": 161,
+                "seatsSold": 25,
+                "occupancy": 13.44,
+                "totalRevenue": 6250.0
               },
               "theatres": {
                 "27725": {
@@ -1453,10 +1550,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 186,
-                    "seatsAvailable": 165,
-                    "seatsSold": 21,
-                    "occupancy": 11.29,
-                    "totalRevenue": 5250.0
+                    "seatsAvailable": 161,
+                    "seatsSold": 25,
+                    "occupancy": 13.44,
+                    "totalRevenue": 6250.0
                   }
                 }
               }
@@ -1475,23 +1572,34 @@
           "cities": {
             "Giridih": {
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 300,
-                "seatsAvailable": 219,
-                "seatsSold": 81,
-                "occupancy": 27.0,
-                "totalRevenue": 17450.0
+                "totalShows": 3,
+                "totalSeats": 439,
+                "seatsAvailable": 326,
+                "seatsSold": 113,
+                "occupancy": 25.74,
+                "totalRevenue": 24900.0
               },
               "theatres": {
+                "1018468": {
+                  "theatreName": "V Orbit Cinema, Paratdih, Giridih",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 139,
+                    "seatsAvailable": 134,
+                    "seatsSold": 5,
+                    "occupancy": 3.6,
+                    "totalRevenue": 1500.0
+                  }
+                },
                 "7826": {
                   "theatreName": "Swarn Cinemas, Bhandaridih, Giridih",
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 300,
-                    "seatsAvailable": 219,
-                    "seatsSold": 81,
-                    "occupancy": 27.0,
-                    "totalRevenue": 17450.0
+                    "seatsAvailable": 192,
+                    "seatsSold": 108,
+                    "occupancy": 36.0,
+                    "totalRevenue": 23400.0
                   }
                 }
               }
@@ -1512,10 +1620,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 580,
-                "seatsAvailable": 408,
-                "seatsSold": 172,
-                "occupancy": 29.66,
-                "totalRevenue": 86000.0
+                "seatsAvailable": 396,
+                "seatsSold": 184,
+                "occupancy": 31.72,
+                "totalRevenue": 92000.0
               },
               "theatres": {
                 "9487": {
@@ -1523,10 +1631,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 580,
-                    "seatsAvailable": 408,
-                    "seatsSold": 172,
-                    "occupancy": 29.66,
-                    "totalRevenue": 86000.0
+                    "seatsAvailable": 396,
+                    "seatsSold": 184,
+                    "occupancy": 31.72,
+                    "totalRevenue": 92000.0
                   }
                 }
               }
@@ -1547,10 +1655,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1224,
-                "seatsAvailable": 848,
-                "seatsSold": 376,
-                "occupancy": 30.72,
-                "totalRevenue": 70620.0
+                "seatsAvailable": 814,
+                "seatsSold": 410,
+                "occupancy": 33.5,
+                "totalRevenue": 76850.0
               },
               "theatres": {
                 "1049289": {
@@ -1558,10 +1666,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 582,
-                    "seatsAvailable": 389,
-                    "seatsSold": 193,
-                    "occupancy": 33.16,
-                    "totalRevenue": 36210.0
+                    "seatsAvailable": 376,
+                    "seatsSold": 206,
+                    "occupancy": 35.4,
+                    "totalRevenue": 38620.0
                   }
                 },
                 "1075662": {
@@ -1569,10 +1677,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 642,
-                    "seatsAvailable": 459,
-                    "seatsSold": 183,
-                    "occupancy": 28.5,
-                    "totalRevenue": 34410.0
+                    "seatsAvailable": 438,
+                    "seatsSold": 204,
+                    "occupancy": 31.78,
+                    "totalRevenue": 38230.0
                   }
                 }
               }
@@ -1581,10 +1689,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 344,
-                "seatsAvailable": 237,
-                "seatsSold": 107,
-                "occupancy": 31.1,
-                "totalRevenue": 18750.0
+                "seatsAvailable": 233,
+                "seatsSold": 111,
+                "occupancy": 32.27,
+                "totalRevenue": 19590.0
               },
               "theatres": {
                 "1049288": {
@@ -1592,10 +1700,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 344,
-                    "seatsAvailable": 237,
-                    "seatsSold": 107,
-                    "occupancy": 31.1,
-                    "totalRevenue": 18750.0
+                    "seatsAvailable": 233,
+                    "seatsSold": 111,
+                    "occupancy": 32.27,
+                    "totalRevenue": 19590.0
                   }
                 }
               }
@@ -1604,10 +1712,10 @@
               "cityStats": {
                 "totalShows": 3,
                 "totalSeats": 802,
-                "seatsAvailable": 503,
-                "seatsSold": 299,
-                "occupancy": 37.28,
-                "totalRevenue": 45800.0
+                "seatsAvailable": 493,
+                "seatsSold": 309,
+                "occupancy": 38.53,
+                "totalRevenue": 47900.0
               },
               "theatres": {
                 "1035939": {
@@ -1615,10 +1723,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 487,
-                    "seatsAvailable": 273,
-                    "seatsSold": 214,
-                    "occupancy": 43.94,
-                    "totalRevenue": 32850.0
+                    "seatsAvailable": 267,
+                    "seatsSold": 220,
+                    "occupancy": 45.17,
+                    "totalRevenue": 34350.0
                   }
                 },
                 "3976": {
@@ -1626,10 +1734,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 315,
-                    "seatsAvailable": 230,
-                    "seatsSold": 85,
-                    "occupancy": 26.98,
-                    "totalRevenue": 12950.0
+                    "seatsAvailable": 226,
+                    "seatsSold": 89,
+                    "occupancy": 28.25,
+                    "totalRevenue": 13550.0
                   }
                 }
               }
@@ -1661,10 +1769,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 580,
-                "seatsAvailable": 472,
-                "seatsSold": 108,
-                "occupancy": 18.62,
-                "totalRevenue": 13392.8
+                "seatsAvailable": 469,
+                "seatsSold": 111,
+                "occupancy": 19.14,
+                "totalRevenue": 13707.8
               },
               "theatres": {
                 "1027244": {
@@ -1672,10 +1780,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 580,
-                    "seatsAvailable": 472,
-                    "seatsSold": 108,
-                    "occupancy": 18.62,
-                    "totalRevenue": 13392.8
+                    "seatsAvailable": 469,
+                    "seatsSold": 111,
+                    "occupancy": 19.14,
+                    "totalRevenue": 13707.8
                   }
                 }
               }
@@ -1684,10 +1792,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 646,
-                "seatsAvailable": 325,
-                "seatsSold": 321,
-                "occupancy": 49.69,
-                "totalRevenue": 42815.6
+                "seatsAvailable": 323,
+                "seatsSold": 323,
+                "occupancy": 50.0,
+                "totalRevenue": 43115.6
               },
               "theatres": {
                 "1004633": {
@@ -1695,10 +1803,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 646,
-                    "seatsAvailable": 325,
-                    "seatsSold": 321,
-                    "occupancy": 49.69,
-                    "totalRevenue": 42815.6
+                    "seatsAvailable": 323,
+                    "seatsSold": 323,
+                    "occupancy": 50.0,
+                    "totalRevenue": 43115.6
                   }
                 }
               }
@@ -1741,10 +1849,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 248,
-                "seatsAvailable": 218,
-                "seatsSold": 30,
-                "occupancy": 12.1,
-                "totalRevenue": 4500.0
+                "seatsAvailable": 208,
+                "seatsSold": 40,
+                "occupancy": 16.13,
+                "totalRevenue": 6000.0
               },
               "theatres": {
                 "1041567": {
@@ -1752,10 +1860,33 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 248,
-                    "seatsAvailable": 218,
-                    "seatsSold": 30,
-                    "occupancy": 12.1,
-                    "totalRevenue": 4500.0
+                    "seatsAvailable": 208,
+                    "seatsSold": 40,
+                    "occupancy": 16.13,
+                    "totalRevenue": 6000.0
+                  }
+                }
+              }
+            },
+            "Kollam": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 454,
+                "seatsAvailable": 439,
+                "seatsSold": 15,
+                "occupancy": 3.3,
+                "totalRevenue": 2427.8
+              },
+              "theatres": {
+                "1092992": {
+                  "theatreName": "Magic Frames Cinemas, Archana",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 454,
+                    "seatsAvailable": 439,
+                    "seatsSold": 15,
+                    "occupancy": 3.3,
+                    "totalRevenue": 2427.8
                   }
                 }
               }
@@ -1764,10 +1895,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 606,
-                "seatsAvailable": 532,
-                "seatsSold": 74,
-                "occupancy": 12.21,
-                "totalRevenue": 12020.0
+                "seatsAvailable": 529,
+                "seatsSold": 77,
+                "occupancy": 12.71,
+                "totalRevenue": 12500.0
               },
               "theatres": {
                 "5061": {
@@ -1775,10 +1906,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 606,
-                    "seatsAvailable": 532,
-                    "seatsSold": 74,
-                    "occupancy": 12.21,
-                    "totalRevenue": 12020.0
+                    "seatsAvailable": 529,
+                    "seatsSold": 77,
+                    "occupancy": 12.71,
+                    "totalRevenue": 12500.0
                   }
                 }
               }
@@ -1787,10 +1918,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1042,
-                "seatsAvailable": 933,
-                "seatsSold": 109,
-                "occupancy": 10.46,
-                "totalRevenue": 14148.2
+                "seatsAvailable": 923,
+                "seatsSold": 119,
+                "occupancy": 11.42,
+                "totalRevenue": 15446.2
               },
               "theatres": {
                 "24246": {
@@ -1798,10 +1929,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 424,
-                    "seatsAvailable": 360,
-                    "seatsSold": 64,
-                    "occupancy": 15.09,
-                    "totalRevenue": 8307.2
+                    "seatsAvailable": 355,
+                    "seatsSold": 69,
+                    "occupancy": 16.27,
+                    "totalRevenue": 8956.2
                   }
                 },
                 "27908": {
@@ -1809,10 +1940,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 618,
-                    "seatsAvailable": 573,
-                    "seatsSold": 45,
-                    "occupancy": 7.28,
-                    "totalRevenue": 5841.0
+                    "seatsAvailable": 568,
+                    "seatsSold": 50,
+                    "occupancy": 8.09,
+                    "totalRevenue": 6490.0
                   }
                 }
               }
@@ -1821,10 +1952,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1550,
-                "seatsAvailable": 1157,
-                "seatsSold": 393,
-                "occupancy": 25.35,
-                "totalRevenue": 53421.14
+                "seatsAvailable": 1148,
+                "seatsSold": 402,
+                "occupancy": 25.94,
+                "totalRevenue": 54649.6
               },
               "theatres": {
                 "1054742": {
@@ -1832,10 +1963,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1550,
-                    "seatsAvailable": 1157,
-                    "seatsSold": 393,
-                    "occupancy": 25.35,
-                    "totalRevenue": 53421.14
+                    "seatsAvailable": 1148,
+                    "seatsSold": 402,
+                    "occupancy": 25.94,
+                    "totalRevenue": 54649.6
                   }
                 }
               }
@@ -1867,10 +1998,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 588,
-                "seatsAvailable": 302,
-                "seatsSold": 286,
-                "occupancy": 48.64,
-                "totalRevenue": 37122.8
+                "seatsAvailable": 309,
+                "seatsSold": 279,
+                "occupancy": 47.45,
+                "totalRevenue": 36214.2
               },
               "theatres": {
                 "1032344": {
@@ -1878,10 +2009,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 588,
-                    "seatsAvailable": 302,
-                    "seatsSold": 286,
-                    "occupancy": 48.64,
-                    "totalRevenue": 37122.8
+                    "seatsAvailable": 309,
+                    "seatsSold": 279,
+                    "occupancy": 47.45,
+                    "totalRevenue": 36214.2
                   }
                 }
               }
@@ -1890,10 +2021,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 364,
-                "seatsAvailable": 346,
-                "seatsSold": 18,
-                "occupancy": 4.95,
-                "totalRevenue": 2336.4
+                "seatsAvailable": 339,
+                "seatsSold": 25,
+                "occupancy": 6.87,
+                "totalRevenue": 3245.0
               },
               "theatres": {
                 "4976": {
@@ -1901,10 +2032,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 364,
-                    "seatsAvailable": 346,
-                    "seatsSold": 18,
-                    "occupancy": 4.95,
-                    "totalRevenue": 2336.4
+                    "seatsAvailable": 339,
+                    "seatsSold": 25,
+                    "occupancy": 6.87,
+                    "totalRevenue": 3245.0
                   }
                 }
               }
@@ -1913,10 +2044,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 560,
-                "seatsAvailable": 235,
-                "seatsSold": 325,
-                "occupancy": 58.04,
-                "totalRevenue": 48750.0
+                "seatsAvailable": 225,
+                "seatsSold": 335,
+                "occupancy": 59.82,
+                "totalRevenue": 50250.0
               },
               "theatres": {
                 "49852": {
@@ -1924,10 +2055,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 560,
-                    "seatsAvailable": 235,
-                    "seatsSold": 325,
-                    "occupancy": 58.04,
-                    "totalRevenue": 48750.0
+                    "seatsAvailable": 225,
+                    "seatsSold": 335,
+                    "occupancy": 59.82,
+                    "totalRevenue": 50250.0
                   }
                 }
               }
@@ -1936,10 +2067,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 369,
-                "seatsAvailable": 255,
-                "seatsSold": 114,
-                "occupancy": 30.89,
-                "totalRevenue": 21450.0
+                "seatsAvailable": 260,
+                "seatsSold": 109,
+                "occupancy": 29.54,
+                "totalRevenue": 20450.0
               },
               "theatres": {
                 "1088219": {
@@ -1947,10 +2078,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 369,
-                    "seatsAvailable": 255,
-                    "seatsSold": 114,
-                    "occupancy": 30.89,
-                    "totalRevenue": 21450.0
+                    "seatsAvailable": 260,
+                    "seatsSold": 109,
+                    "occupancy": 29.54,
+                    "totalRevenue": 20450.0
                   }
                 }
               }
@@ -1959,10 +2090,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 668,
-                "seatsAvailable": 654,
-                "seatsSold": 14,
-                "occupancy": 2.1,
-                "totalRevenue": 1470.0
+                "seatsAvailable": 653,
+                "seatsSold": 15,
+                "occupancy": 2.25,
+                "totalRevenue": 1575.0
               },
               "theatres": {
                 "4174": {
@@ -1970,10 +2101,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 668,
-                    "seatsAvailable": 654,
-                    "seatsSold": 14,
-                    "occupancy": 2.1,
-                    "totalRevenue": 1470.0
+                    "seatsAvailable": 653,
+                    "seatsSold": 15,
+                    "occupancy": 2.25,
+                    "totalRevenue": 1575.0
                   }
                 }
               }
@@ -2075,10 +2206,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 796,
-                "seatsAvailable": 627,
-                "seatsSold": 169,
-                "occupancy": 21.23,
-                "totalRevenue": 59150.0
+                "seatsAvailable": 619,
+                "seatsSold": 177,
+                "occupancy": 22.24,
+                "totalRevenue": 61950.0
               },
               "theatres": {
                 "1047917": {
@@ -2086,10 +2217,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 796,
-                    "seatsAvailable": 627,
-                    "seatsSold": 169,
-                    "occupancy": 21.23,
-                    "totalRevenue": 59150.0
+                    "seatsAvailable": 619,
+                    "seatsSold": 177,
+                    "occupancy": 22.24,
+                    "totalRevenue": 61950.0
                   }
                 }
               }
@@ -2098,10 +2229,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 124,
-                "seatsAvailable": 117,
-                "seatsSold": 7,
-                "occupancy": 5.65,
-                "totalRevenue": 1750.0
+                "seatsAvailable": 76,
+                "seatsSold": 48,
+                "occupancy": 38.71,
+                "totalRevenue": 12000.0
               },
               "theatres": {
                 "1021629": {
@@ -2109,10 +2240,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 124,
-                    "seatsAvailable": 117,
-                    "seatsSold": 7,
-                    "occupancy": 5.65,
-                    "totalRevenue": 1750.0
+                    "seatsAvailable": 76,
+                    "seatsSold": 48,
+                    "occupancy": 38.71,
+                    "totalRevenue": 12000.0
                   }
                 }
               }
@@ -2121,10 +2252,10 @@
               "cityStats": {
                 "totalShows": 3,
                 "totalSeats": 483,
-                "seatsAvailable": 289,
-                "seatsSold": 194,
-                "occupancy": 40.17,
-                "totalRevenue": 42150.0
+                "seatsAvailable": 283,
+                "seatsSold": 200,
+                "occupancy": 41.41,
+                "totalRevenue": 43750.0
               },
               "theatres": {
                 "32811": {
@@ -2132,10 +2263,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 460,
-                    "seatsAvailable": 275,
-                    "seatsSold": 185,
-                    "occupancy": 40.22,
-                    "totalRevenue": 39450.0
+                    "seatsAvailable": 271,
+                    "seatsSold": 189,
+                    "occupancy": 41.09,
+                    "totalRevenue": 40450.0
                   }
                 },
                 "33645": {
@@ -2143,10 +2274,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 23,
-                    "seatsAvailable": 14,
-                    "seatsSold": 9,
-                    "occupancy": 39.13,
-                    "totalRevenue": 2700.0
+                    "seatsAvailable": 12,
+                    "seatsSold": 11,
+                    "occupancy": 47.83,
+                    "totalRevenue": 3300.0
                   }
                 }
               }
@@ -2213,10 +2344,10 @@
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1405,
-                "seatsAvailable": 1333,
-                "seatsSold": 72,
-                "occupancy": 5.12,
-                "totalRevenue": 24800.0
+                "seatsAvailable": 1328,
+                "seatsSold": 77,
+                "occupancy": 5.48,
+                "totalRevenue": 26900.0
               },
               "theatres": {
                 "1041199": {
@@ -2224,10 +2355,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1405,
-                    "seatsAvailable": 1333,
-                    "seatsSold": 72,
-                    "occupancy": 5.12,
-                    "totalRevenue": 24800.0
+                    "seatsAvailable": 1328,
+                    "seatsSold": 77,
+                    "occupancy": 5.48,
+                    "totalRevenue": 26900.0
                   }
                 }
               }
@@ -2236,10 +2367,10 @@
               "cityStats": {
                 "totalShows": 5,
                 "totalSeats": 982,
-                "seatsAvailable": 894,
-                "seatsSold": 88,
-                "occupancy": 8.96,
-                "totalRevenue": 26800.0
+                "seatsAvailable": 879,
+                "seatsSold": 103,
+                "occupancy": 10.49,
+                "totalRevenue": 31300.0
               },
               "theatres": {
                 "1041211": {
@@ -2258,10 +2389,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 539,
-                    "seatsAvailable": 462,
-                    "seatsSold": 77,
-                    "occupancy": 14.29,
-                    "totalRevenue": 23500.0
+                    "seatsAvailable": 447,
+                    "seatsSold": 92,
+                    "occupancy": 17.07,
+                    "totalRevenue": 28000.0
                   }
                 }
               }
@@ -2282,10 +2413,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 304,
-                "seatsAvailable": 116,
-                "seatsSold": 188,
-                "occupancy": 61.84,
-                "totalRevenue": 59090.0
+                "seatsAvailable": 106,
+                "seatsSold": 198,
+                "occupancy": 65.13,
+                "totalRevenue": 62440.0
               },
               "theatres": {
                 "27432": {
@@ -2293,10 +2424,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 304,
-                    "seatsAvailable": 116,
-                    "seatsSold": 188,
-                    "occupancy": 61.84,
-                    "totalRevenue": 59090.0
+                    "seatsAvailable": 106,
+                    "seatsSold": 198,
+                    "occupancy": 65.13,
+                    "totalRevenue": 62440.0
                   }
                 }
               }
@@ -2317,10 +2448,10 @@
               "cityStats": {
                 "totalShows": 26,
                 "totalSeats": 11089,
-                "seatsAvailable": 6625,
-                "seatsSold": 4464,
-                "occupancy": 40.26,
-                "totalRevenue": 784532.76
+                "seatsAvailable": 6569,
+                "seatsSold": 4520,
+                "occupancy": 40.76,
+                "totalRevenue": 794500.2
               },
               "theatres": {
                 "1037507": {
@@ -2328,10 +2459,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 508,
-                    "seatsAvailable": 209,
-                    "seatsSold": 299,
-                    "occupancy": 58.86,
-                    "totalRevenue": 44850.0
+                    "seatsAvailable": 204,
+                    "seatsSold": 304,
+                    "occupancy": 59.84,
+                    "totalRevenue": 45600.0
                   }
                 },
                 "1042465": {
@@ -2339,10 +2470,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1040,
-                    "seatsAvailable": 786,
-                    "seatsSold": 254,
-                    "occupancy": 24.42,
-                    "totalRevenue": 34180.0
+                    "seatsAvailable": 783,
+                    "seatsSold": 257,
+                    "occupancy": 24.71,
+                    "totalRevenue": 34570.0
                   }
                 },
                 "1042615": {
@@ -2361,10 +2492,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1316,
-                    "seatsAvailable": 1033,
-                    "seatsSold": 283,
-                    "occupancy": 21.5,
-                    "totalRevenue": 42450.0
+                    "seatsAvailable": 1030,
+                    "seatsSold": 286,
+                    "occupancy": 21.73,
+                    "totalRevenue": 42900.0
                   }
                 },
                 "1101384": {
@@ -2372,10 +2503,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 904,
-                    "seatsAvailable": 193,
-                    "seatsSold": 711,
-                    "occupancy": 78.65,
-                    "totalRevenue": 135090.0
+                    "seatsAvailable": 191,
+                    "seatsSold": 713,
+                    "occupancy": 78.87,
+                    "totalRevenue": 135470.0
                   }
                 },
                 "1102116": {
@@ -2394,10 +2525,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 2150,
-                    "seatsAvailable": 818,
-                    "seatsSold": 1332,
-                    "occupancy": 61.95,
-                    "totalRevenue": 269716.68
+                    "seatsAvailable": 802,
+                    "seatsSold": 1348,
+                    "occupancy": 62.7,
+                    "totalRevenue": 272956.52
                   }
                 },
                 "1102133": {
@@ -2405,10 +2536,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 1456,
-                    "seatsAvailable": 1067,
-                    "seatsSold": 389,
-                    "occupancy": 26.72,
-                    "totalRevenue": 78190.0
+                    "seatsAvailable": 1060,
+                    "seatsSold": 396,
+                    "occupancy": 27.2,
+                    "totalRevenue": 79565.0
                   }
                 },
                 "4184": {
@@ -2416,10 +2547,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1676,
-                    "seatsAvailable": 1260,
-                    "seatsSold": 416,
-                    "occupancy": 24.82,
-                    "totalRevenue": 54769.64
+                    "seatsAvailable": 1254,
+                    "seatsSold": 422,
+                    "occupancy": 25.18,
+                    "totalRevenue": 55984.64
                   }
                 },
                 "4891": {
@@ -2427,10 +2558,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 675,
-                    "seatsAvailable": 281,
-                    "seatsSold": 394,
-                    "occupancy": 58.37,
-                    "totalRevenue": 61311.0
+                    "seatsAvailable": 267,
+                    "seatsSold": 408,
+                    "occupancy": 60.44,
+                    "totalRevenue": 63478.6
                   }
                 }
               }
@@ -2439,10 +2570,10 @@
               "cityStats": {
                 "totalShows": 5,
                 "totalSeats": 1548,
-                "seatsAvailable": 1062,
-                "seatsSold": 486,
-                "occupancy": 31.4,
-                "totalRevenue": 97200.0
+                "seatsAvailable": 1035,
+                "seatsSold": 513,
+                "occupancy": 33.14,
+                "totalRevenue": 102600.0
               },
               "theatres": {
                 "1015289": {
@@ -2450,10 +2581,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 1548,
-                    "seatsAvailable": 1062,
-                    "seatsSold": 486,
-                    "occupancy": 31.4,
-                    "totalRevenue": 97200.0
+                    "seatsAvailable": 1035,
+                    "seatsSold": 513,
+                    "occupancy": 33.14,
+                    "totalRevenue": 102600.0
                   }
                 }
               }
@@ -2485,10 +2616,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 318,
-                "seatsAvailable": 256,
-                "seatsSold": 62,
-                "occupancy": 19.5,
-                "totalRevenue": 12400.0
+                "seatsAvailable": 265,
+                "seatsSold": 53,
+                "occupancy": 16.67,
+                "totalRevenue": 10600.0
               },
               "theatres": {
                 "1041242": {
@@ -2496,10 +2627,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 318,
-                    "seatsAvailable": 256,
-                    "seatsSold": 62,
-                    "occupancy": 19.5,
-                    "totalRevenue": 12400.0
+                    "seatsAvailable": 265,
+                    "seatsSold": 53,
+                    "occupancy": 16.67,
+                    "totalRevenue": 10600.0
                   }
                 }
               }
@@ -2520,10 +2651,10 @@
               "cityStats": {
                 "totalShows": 12,
                 "totalSeats": 7842,
-                "seatsAvailable": 5263,
-                "seatsSold": 2579,
-                "occupancy": 32.89,
-                "totalRevenue": 457870.0
+                "seatsAvailable": 5073,
+                "seatsSold": 2769,
+                "occupancy": 35.31,
+                "totalRevenue": 489135.0
               },
               "theatres": {
                 "1041449": {
@@ -2531,10 +2662,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1536,
-                    "seatsAvailable": 1388,
-                    "seatsSold": 148,
-                    "occupancy": 9.64,
-                    "totalRevenue": 21075.0
+                    "seatsAvailable": 1366,
+                    "seatsSold": 170,
+                    "occupancy": 11.07,
+                    "totalRevenue": 23575.0
                   }
                 },
                 "1041683": {
@@ -2542,10 +2673,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1788,
-                    "seatsAvailable": 1166,
-                    "seatsSold": 622,
-                    "occupancy": 34.79,
-                    "totalRevenue": 195370.0
+                    "seatsAvailable": 1139,
+                    "seatsSold": 649,
+                    "occupancy": 36.3,
+                    "totalRevenue": 203335.0
                   }
                 },
                 "1041684": {
@@ -2553,10 +2684,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1626,
-                    "seatsAvailable": 1424,
-                    "seatsSold": 202,
-                    "occupancy": 12.42,
-                    "totalRevenue": 34100.0
+                    "seatsAvailable": 1308,
+                    "seatsSold": 318,
+                    "occupancy": 19.56,
+                    "totalRevenue": 50550.0
                   }
                 },
                 "13958": {
@@ -2564,10 +2695,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1252,
-                    "seatsAvailable": 756,
-                    "seatsSold": 496,
-                    "occupancy": 39.62,
-                    "totalRevenue": 60475.0
+                    "seatsAvailable": 741,
+                    "seatsSold": 511,
+                    "occupancy": 40.81,
+                    "totalRevenue": 63100.0
                   }
                 },
                 "36376": {
@@ -2575,10 +2706,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1640,
-                    "seatsAvailable": 529,
-                    "seatsSold": 1111,
-                    "occupancy": 67.74,
-                    "totalRevenue": 146850.0
+                    "seatsAvailable": 519,
+                    "seatsSold": 1121,
+                    "occupancy": 68.35,
+                    "totalRevenue": 148575.0
                   }
                 }
               }
@@ -2587,10 +2718,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1166,
-                "seatsAvailable": 918,
-                "seatsSold": 248,
-                "occupancy": 21.27,
-                "totalRevenue": 75335.0
+                "seatsAvailable": 928,
+                "seatsSold": 238,
+                "occupancy": 20.41,
+                "totalRevenue": 72385.0
               },
               "theatres": {
                 "1063761": {
@@ -2598,10 +2729,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 542,
-                    "seatsAvailable": 433,
-                    "seatsSold": 109,
-                    "occupancy": 20.11,
-                    "totalRevenue": 34025.0
+                    "seatsAvailable": 436,
+                    "seatsSold": 106,
+                    "occupancy": 19.56,
+                    "totalRevenue": 33140.0
                   }
                 },
                 "24929": {
@@ -2609,10 +2740,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 624,
-                    "seatsAvailable": 485,
-                    "seatsSold": 139,
-                    "occupancy": 22.28,
-                    "totalRevenue": 41310.0
+                    "seatsAvailable": 492,
+                    "seatsSold": 132,
+                    "occupancy": 21.15,
+                    "totalRevenue": 39245.0
                   }
                 }
               }
@@ -2621,10 +2752,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1262,
-                "seatsAvailable": 1036,
-                "seatsSold": 226,
-                "occupancy": 17.91,
-                "totalRevenue": 38675.0
+                "seatsAvailable": 1017,
+                "seatsSold": 245,
+                "occupancy": 19.41,
+                "totalRevenue": 41625.0
               },
               "theatres": {
                 "1041685": {
@@ -2632,10 +2763,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1262,
-                    "seatsAvailable": 1036,
-                    "seatsSold": 226,
-                    "occupancy": 17.91,
-                    "totalRevenue": 38675.0
+                    "seatsAvailable": 1017,
+                    "seatsSold": 245,
+                    "occupancy": 19.41,
+                    "totalRevenue": 41625.0
                   }
                 }
               }
@@ -2644,10 +2775,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 244,
-                "seatsAvailable": 144,
-                "seatsSold": 100,
-                "occupancy": 40.98,
-                "totalRevenue": 19810.0
+                "seatsAvailable": 140,
+                "seatsSold": 104,
+                "occupancy": 42.62,
+                "totalRevenue": 20515.0
               },
               "theatres": {
                 "22305": {
@@ -2655,10 +2786,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 244,
-                    "seatsAvailable": 144,
-                    "seatsSold": 100,
-                    "occupancy": 40.98,
-                    "totalRevenue": 19810.0
+                    "seatsAvailable": 140,
+                    "seatsSold": 104,
+                    "occupancy": 42.62,
+                    "totalRevenue": 20515.0
                   }
                 }
               }
@@ -2702,10 +2833,10 @@
               "cityStats": {
                 "totalShows": 8,
                 "totalSeats": 1586,
-                "seatsAvailable": 1115,
-                "seatsSold": 471,
-                "occupancy": 29.7,
-                "totalRevenue": 256800.0
+                "seatsAvailable": 1108,
+                "seatsSold": 478,
+                "occupancy": 30.14,
+                "totalRevenue": 260800.0
               },
               "theatres": {
                 "25281": {
@@ -2713,10 +2844,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 1586,
-                    "seatsAvailable": 1115,
-                    "seatsSold": 471,
-                    "occupancy": 29.7,
-                    "totalRevenue": 256800.0
+                    "seatsAvailable": 1108,
+                    "seatsSold": 478,
+                    "occupancy": 30.14,
+                    "totalRevenue": 260800.0
                   }
                 }
               }
@@ -2725,10 +2856,10 @@
               "cityStats": {
                 "totalShows": 3,
                 "totalSeats": 508,
-                "seatsAvailable": 466,
-                "seatsSold": 42,
-                "occupancy": 8.27,
-                "totalRevenue": 13100.0
+                "seatsAvailable": 459,
+                "seatsSold": 49,
+                "occupancy": 9.65,
+                "totalRevenue": 15500.0
               },
               "theatres": {
                 "1042822": {
@@ -2736,10 +2867,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 508,
-                    "seatsAvailable": 466,
-                    "seatsSold": 42,
-                    "occupancy": 8.27,
-                    "totalRevenue": 13100.0
+                    "seatsAvailable": 459,
+                    "seatsSold": 49,
+                    "occupancy": 9.65,
+                    "totalRevenue": 15500.0
                   }
                 }
               }
@@ -2790,10 +2921,10 @@
       "overallStats": {
         "totalShows": 41,
         "totalSeats": 16190,
-        "seatsAvailable": 9828,
-        "seatsSold": 6362,
-        "occupancy": 39.3,
-        "totalRevenue": 1031670.0,
+        "seatsAvailable": 9432,
+        "seatsSold": 6758,
+        "occupancy": 41.74,
+        "totalRevenue": 1090203.0,
         "totalTheatres": 20
       },
       "states": {
@@ -2811,10 +2942,10 @@
               "cityStats": {
                 "totalShows": 3,
                 "totalSeats": 619,
-                "seatsAvailable": 156,
-                "seatsSold": 463,
-                "occupancy": 74.8,
-                "totalRevenue": 83839.0
+                "seatsAvailable": 150,
+                "seatsSold": 469,
+                "occupancy": 75.77,
+                "totalRevenue": 84901.0
               },
               "theatres": {
                 "1019166": {
@@ -2822,10 +2953,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 619,
-                    "seatsAvailable": 156,
-                    "seatsSold": 463,
-                    "occupancy": 74.8,
-                    "totalRevenue": 83839.0
+                    "seatsAvailable": 150,
+                    "seatsSold": 469,
+                    "occupancy": 75.77,
+                    "totalRevenue": 84901.0
                   }
                 }
               }
@@ -2834,10 +2965,10 @@
               "cityStats": {
                 "totalShows": 8,
                 "totalSeats": 2114,
-                "seatsAvailable": 795,
-                "seatsSold": 1319,
-                "occupancy": 62.39,
-                "totalRevenue": 233198.0
+                "seatsAvailable": 759,
+                "seatsSold": 1355,
+                "occupancy": 64.1,
+                "totalRevenue": 240094.0
               },
               "theatres": {
                 "1020333": {
@@ -2845,10 +2976,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1272,
-                    "seatsAvailable": 333,
-                    "seatsSold": 939,
-                    "occupancy": 73.82,
-                    "totalRevenue": 180813.0
+                    "seatsAvailable": 300,
+                    "seatsSold": 972,
+                    "occupancy": 76.42,
+                    "totalRevenue": 186654.0
                   }
                 },
                 "1041726": {
@@ -2856,10 +2987,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 842,
-                    "seatsAvailable": 462,
-                    "seatsSold": 380,
-                    "occupancy": 45.13,
-                    "totalRevenue": 52385.0
+                    "seatsAvailable": 459,
+                    "seatsSold": 383,
+                    "occupancy": 45.49,
+                    "totalRevenue": 53440.0
                   }
                 }
               }
@@ -2868,10 +2999,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1234,
-                "seatsAvailable": 1198,
-                "seatsSold": 36,
-                "occupancy": 2.92,
-                "totalRevenue": 6750.0
+                "seatsAvailable": 1114,
+                "seatsSold": 120,
+                "occupancy": 9.72,
+                "totalRevenue": 19300.0
               },
               "theatres": {
                 "1055922": {
@@ -2879,10 +3010,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1234,
-                    "seatsAvailable": 1198,
-                    "seatsSold": 36,
-                    "occupancy": 2.92,
-                    "totalRevenue": 6750.0
+                    "seatsAvailable": 1114,
+                    "seatsSold": 120,
+                    "occupancy": 9.72,
+                    "totalRevenue": 19300.0
                   }
                 }
               }
@@ -2891,10 +3022,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 496,
-                "seatsAvailable": 114,
-                "seatsSold": 382,
-                "occupancy": 77.02,
-                "totalRevenue": 70918.0
+                "seatsAvailable": 95,
+                "seatsSold": 401,
+                "occupancy": 80.85,
+                "totalRevenue": 74281.0
               },
               "theatres": {
                 "15527": {
@@ -2902,10 +3033,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 496,
-                    "seatsAvailable": 114,
-                    "seatsSold": 382,
-                    "occupancy": 77.02,
-                    "totalRevenue": 70918.0
+                    "seatsAvailable": 95,
+                    "seatsSold": 401,
+                    "occupancy": 80.85,
+                    "totalRevenue": 74281.0
                   }
                 }
               }
@@ -2914,10 +3045,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 235,
-                "seatsAvailable": 103,
-                "seatsSold": 132,
-                "occupancy": 56.17,
-                "totalRevenue": 21105.0
+                "seatsAvailable": 93,
+                "seatsSold": 142,
+                "occupancy": 60.43,
+                "totalRevenue": 22605.0
               },
               "theatres": {
                 "1050768": {
@@ -2925,10 +3056,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 235,
-                    "seatsAvailable": 103,
-                    "seatsSold": 132,
-                    "occupancy": 56.17,
-                    "totalRevenue": 21105.0
+                    "seatsAvailable": 93,
+                    "seatsSold": 142,
+                    "occupancy": 60.43,
+                    "totalRevenue": 22605.0
                   }
                 }
               }
@@ -2937,10 +3068,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 296,
-                "seatsAvailable": 253,
-                "seatsSold": 43,
-                "occupancy": 14.53,
-                "totalRevenue": 7250.0
+                "seatsAvailable": 0,
+                "seatsSold": 296,
+                "occupancy": 100.0,
+                "totalRevenue": 45200.0
               },
               "theatres": {
                 "24767": {
@@ -2948,10 +3079,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 296,
-                    "seatsAvailable": 253,
-                    "seatsSold": 43,
-                    "occupancy": 14.53,
-                    "totalRevenue": 7250.0
+                    "seatsAvailable": 0,
+                    "seatsSold": 296,
+                    "occupancy": 100.0,
+                    "totalRevenue": 45200.0
                   }
                 }
               }
@@ -2960,10 +3091,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 247,
-                "seatsAvailable": 25,
-                "seatsSold": 222,
-                "occupancy": 89.88,
-                "totalRevenue": 40827.0
+                "seatsAvailable": 21,
+                "seatsSold": 226,
+                "occupancy": 91.5,
+                "totalRevenue": 41535.0
               },
               "theatres": {
                 "1041782": {
@@ -2971,10 +3102,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 247,
-                    "seatsAvailable": 25,
-                    "seatsSold": 222,
-                    "occupancy": 89.88,
-                    "totalRevenue": 40827.0
+                    "seatsAvailable": 21,
+                    "seatsSold": 226,
+                    "occupancy": 91.5,
+                    "totalRevenue": 41535.0
                   }
                 }
               }
@@ -2983,10 +3114,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 992,
-                "seatsAvailable": 586,
-                "seatsSold": 406,
-                "occupancy": 40.93,
-                "totalRevenue": 60558.0
+                "seatsAvailable": 536,
+                "seatsSold": 456,
+                "occupancy": 45.97,
+                "totalRevenue": 68112.0
               },
               "theatres": {
                 "7293": {
@@ -2994,10 +3125,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 992,
-                    "seatsAvailable": 586,
-                    "seatsSold": 406,
-                    "occupancy": 40.93,
-                    "totalRevenue": 60558.0
+                    "seatsAvailable": 536,
+                    "seatsSold": 456,
+                    "occupancy": 45.97,
+                    "totalRevenue": 68112.0
                   }
                 }
               }
@@ -3018,10 +3149,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 202,
-                "seatsAvailable": 155,
-                "seatsSold": 47,
-                "occupancy": 23.27,
-                "totalRevenue": 9400.0
+                "seatsAvailable": 154,
+                "seatsSold": 48,
+                "occupancy": 23.76,
+                "totalRevenue": 9600.0
               },
               "theatres": {
                 "1015289": {
@@ -3029,10 +3160,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 202,
-                    "seatsAvailable": 155,
-                    "seatsSold": 47,
-                    "occupancy": 23.27,
-                    "totalRevenue": 9400.0
+                    "seatsAvailable": 154,
+                    "seatsSold": 48,
+                    "occupancy": 23.76,
+                    "totalRevenue": 9600.0
                   }
                 }
               }
@@ -3053,10 +3184,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 762,
-                "seatsAvailable": 656,
-                "seatsSold": 106,
-                "occupancy": 13.91,
-                "totalRevenue": 21655.0
+                "seatsAvailable": 681,
+                "seatsSold": 81,
+                "occupancy": 10.63,
+                "totalRevenue": 16755.0
               },
               "theatres": {
                 "1018798": {
@@ -3064,10 +3195,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 762,
-                    "seatsAvailable": 656,
-                    "seatsSold": 106,
-                    "occupancy": 13.91,
-                    "totalRevenue": 21655.0
+                    "seatsAvailable": 681,
+                    "seatsSold": 81,
+                    "occupancy": 10.63,
+                    "totalRevenue": 16755.0
                   }
                 }
               }
@@ -3076,10 +3207,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1582,
-                "seatsAvailable": 1237,
-                "seatsSold": 345,
-                "occupancy": 21.81,
-                "totalRevenue": 60300.0
+                "seatsAvailable": 1190,
+                "seatsSold": 392,
+                "occupancy": 24.78,
+                "totalRevenue": 68200.0
               },
               "theatres": {
                 "1041683": {
@@ -3087,10 +3218,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 326,
-                    "seatsAvailable": 260,
-                    "seatsSold": 66,
-                    "occupancy": 20.25,
-                    "totalRevenue": 20900.0
+                    "seatsAvailable": 252,
+                    "seatsSold": 74,
+                    "occupancy": 22.7,
+                    "totalRevenue": 23425.0
                   }
                 },
                 "9291": {
@@ -3098,10 +3229,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1256,
-                    "seatsAvailable": 977,
-                    "seatsSold": 279,
-                    "occupancy": 22.21,
-                    "totalRevenue": 39400.0
+                    "seatsAvailable": 938,
+                    "seatsSold": 318,
+                    "occupancy": 25.32,
+                    "totalRevenue": 44775.0
                   }
                 }
               }
@@ -3110,10 +3241,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1784,
-                "seatsAvailable": 613,
-                "seatsSold": 1171,
-                "occupancy": 65.64,
-                "totalRevenue": 172255.0
+                "seatsAvailable": 755,
+                "seatsSold": 1029,
+                "occupancy": 57.68,
+                "totalRevenue": 147405.0
               },
               "theatres": {
                 "1063761": {
@@ -3132,10 +3263,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1386,
-                    "seatsAvailable": 264,
-                    "seatsSold": 1122,
-                    "occupancy": 80.95,
-                    "totalRevenue": 157800.0
+                    "seatsAvailable": 406,
+                    "seatsSold": 980,
+                    "occupancy": 70.71,
+                    "totalRevenue": 132950.0
                   }
                 }
               }
@@ -3144,10 +3275,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 699,
-                "seatsAvailable": 491,
-                "seatsSold": 208,
-                "occupancy": 29.76,
-                "totalRevenue": 39890.0
+                "seatsAvailable": 482,
+                "seatsSold": 217,
+                "occupancy": 31.04,
+                "totalRevenue": 41690.0
               },
               "theatres": {
                 "22305": {
@@ -3155,10 +3286,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 699,
-                    "seatsAvailable": 491,
-                    "seatsSold": 208,
-                    "occupancy": 29.76,
-                    "totalRevenue": 39890.0
+                    "seatsAvailable": 482,
+                    "seatsSold": 217,
+                    "occupancy": 31.04,
+                    "totalRevenue": 41690.0
                   }
                 }
               }
@@ -3167,10 +3298,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1206,
-                "seatsAvailable": 930,
-                "seatsSold": 276,
-                "occupancy": 22.89,
-                "totalRevenue": 37350.0
+                "seatsAvailable": 897,
+                "seatsSold": 309,
+                "occupancy": 25.62,
+                "totalRevenue": 42600.0
               },
               "theatres": {
                 "4739": {
@@ -3178,10 +3309,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1206,
-                    "seatsAvailable": 930,
-                    "seatsSold": 276,
-                    "occupancy": 22.89,
-                    "totalRevenue": 37350.0
+                    "seatsAvailable": 897,
+                    "seatsSold": 309,
+                    "occupancy": 25.62,
+                    "totalRevenue": 42600.0
                   }
                 }
               }
@@ -3213,10 +3344,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1242,
-                "seatsAvailable": 1015,
-                "seatsSold": 227,
-                "occupancy": 18.28,
-                "totalRevenue": 36850.0
+                "seatsAvailable": 1004,
+                "seatsSold": 238,
+                "occupancy": 19.16,
+                "totalRevenue": 38400.0
               },
               "theatres": {
                 "25808": {
@@ -3224,10 +3355,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1242,
-                    "seatsAvailable": 1015,
-                    "seatsSold": 227,
-                    "occupancy": 18.28,
-                    "totalRevenue": 36850.0
+                    "seatsAvailable": 1004,
+                    "seatsSold": 238,
+                    "occupancy": 19.16,
+                    "totalRevenue": 38400.0
                   }
                 }
               }
@@ -3264,13 +3395,13 @@
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-d4367de0-1d31-11f1-96c9-4539b6d27dc7.jpg",
       "overallStats": {
-        "totalShows": 16,
-        "totalSeats": 4287,
-        "seatsAvailable": 3315,
-        "seatsSold": 972,
-        "occupancy": 22.67,
-        "totalRevenue": 140849.6,
-        "totalTheatres": 9
+        "totalShows": 14,
+        "totalSeats": 3833,
+        "seatsAvailable": 2852,
+        "seatsSold": 981,
+        "occupancy": 25.59,
+        "totalRevenue": 141731.4,
+        "totalTheatres": 8
       },
       "states": {
         "kerala": {
@@ -3310,10 +3441,10 @@
               "cityStats": {
                 "totalShows": 3,
                 "totalSeats": 1494,
-                "seatsAvailable": 951,
-                "seatsSold": 543,
-                "occupancy": 36.35,
-                "totalRevenue": 82200.0
+                "seatsAvailable": 934,
+                "seatsSold": 560,
+                "occupancy": 37.48,
+                "totalRevenue": 84750.0
               },
               "theatres": {
                 "1035939": {
@@ -3332,10 +3463,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 1250,
-                    "seatsAvailable": 951,
-                    "seatsSold": 299,
-                    "occupancy": 23.92,
-                    "totalRevenue": 44850.0
+                    "seatsAvailable": 934,
+                    "seatsSold": 316,
+                    "occupancy": 25.28,
+                    "totalRevenue": 47400.0
                   }
                 }
               }
@@ -3344,10 +3475,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 708,
-                "seatsAvailable": 404,
-                "seatsSold": 304,
-                "occupancy": 42.94,
-                "totalRevenue": 39903.6
+                "seatsAvailable": 402,
+                "seatsSold": 306,
+                "occupancy": 43.22,
+                "totalRevenue": 40203.6
               },
               "theatres": {
                 "1004633": {
@@ -3355,33 +3486,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 708,
-                    "seatsAvailable": 404,
-                    "seatsSold": 304,
-                    "occupancy": 42.94,
-                    "totalRevenue": 39903.6
-                  }
-                }
-              }
-            },
-            "Kollam": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 454,
-                "seatsAvailable": 440,
-                "seatsSold": 14,
-                "occupancy": 3.08,
-                "totalRevenue": 2298.0
-              },
-              "theatres": {
-                "1092992": {
-                  "theatreName": "Magic Frames Cinemas, Archana",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 454,
-                    "seatsAvailable": 440,
-                    "seatsSold": 14,
-                    "occupancy": 3.08,
-                    "totalRevenue": 2298.0
+                    "seatsAvailable": 402,
+                    "seatsSold": 306,
+                    "occupancy": 43.22,
+                    "totalRevenue": 40203.6
                   }
                 }
               }
@@ -3436,10 +3544,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 278,
-                "seatsAvailable": 223,
-                "seatsSold": 55,
-                "occupancy": 19.78,
-                "totalRevenue": 7139.0
+                "seatsAvailable": 222,
+                "seatsSold": 56,
+                "occupancy": 20.14,
+                "totalRevenue": 7268.8
               },
               "theatres": {
                 "1032344": {
@@ -3447,10 +3555,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 278,
-                    "seatsAvailable": 223,
-                    "seatsSold": 55,
-                    "occupancy": 19.78,
-                    "totalRevenue": 7139.0
+                    "seatsAvailable": 222,
+                    "seatsSold": 56,
+                    "occupancy": 20.14,
+                    "totalRevenue": 7268.8
                   }
                 }
               }
@@ -3459,10 +3567,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 221,
-                "seatsAvailable": 196,
-                "seatsSold": 25,
-                "occupancy": 11.31,
-                "totalRevenue": 4900.0
+                "seatsAvailable": 193,
+                "seatsSold": 28,
+                "occupancy": 12.67,
+                "totalRevenue": 5100.0
               },
               "theatres": {
                 "1088219": {
@@ -3470,10 +3578,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 221,
-                    "seatsAvailable": 196,
-                    "seatsSold": 25,
-                    "occupancy": 11.31,
-                    "totalRevenue": 4900.0
+                    "seatsAvailable": 193,
+                    "seatsSold": 28,
+                    "occupancy": 12.67,
+                    "totalRevenue": 5100.0
                   }
                 }
               }
@@ -3778,13 +3886,13 @@
       "name": "Ishqa'n De Lekhe",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_Poster%20(6)-deb3bd90-f857-11f0-8620-8df8f5aa41d0.jpg",
       "overallStats": {
-        "totalShows": 5,
-        "totalSeats": 865,
-        "seatsAvailable": 859,
+        "totalShows": 12,
+        "totalSeats": 2500,
+        "seatsAvailable": 2494,
         "seatsSold": 6,
-        "occupancy": 0.69,
+        "occupancy": 0.24,
         "totalRevenue": 1000.0,
-        "totalTheatres": 1
+        "totalTheatres": 2
       },
       "states": {
         "punjab": {
@@ -3797,6 +3905,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Amritsar": {
+              "cityStats": {
+                "totalShows": 7,
+                "totalSeats": 1635,
+                "seatsAvailable": 1635,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "stats": {
+                    "totalShows": 7,
+                    "totalSeats": 1635,
+                    "seatsAvailable": 1635,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Sangrur": {
               "cityStats": {
                 "totalShows": 5,
@@ -3986,10 +4117,10 @@
       "overallStats": {
         "totalShows": 2,
         "totalSeats": 532,
-        "seatsAvailable": 477,
-        "seatsSold": 55,
-        "occupancy": 10.34,
-        "totalRevenue": 4017.15,
+        "seatsAvailable": 475,
+        "seatsSold": 57,
+        "occupancy": 10.71,
+        "totalRevenue": 4384.75,
         "totalTheatres": 2
       },
       "states": {
@@ -4007,10 +4138,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 532,
-                "seatsAvailable": 477,
-                "seatsSold": 55,
-                "occupancy": 10.34,
-                "totalRevenue": 4017.15
+                "seatsAvailable": 475,
+                "seatsSold": 57,
+                "occupancy": 10.71,
+                "totalRevenue": 4384.75
               },
               "theatres": {
                 "1037033": {
@@ -4018,10 +4149,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 286,
-                    "seatsAvailable": 256,
-                    "seatsSold": 30,
-                    "occupancy": 10.49,
-                    "totalRevenue": 2658.4
+                    "seatsAvailable": 254,
+                    "seatsSold": 32,
+                    "occupancy": 11.19,
+                    "totalRevenue": 3026.0
                   }
                 },
                 "1042615": {
@@ -4046,13 +4177,13 @@
       "name": "Kanchana",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kanchana%20(2011)-00008840-18b8-11f1-83b2-a15e9fd5a2b4.jpg",
       "overallStats": {
-        "totalShows": 111,
-        "totalSeats": 60325,
-        "seatsAvailable": 52938,
-        "seatsSold": 7387,
-        "occupancy": 12.25,
-        "totalRevenue": 807168.0,
-        "totalTheatres": 32
+        "totalShows": 118,
+        "totalSeats": 63153,
+        "seatsAvailable": 55545,
+        "seatsSold": 7608,
+        "occupancy": 12.05,
+        "totalRevenue": 840048.0,
+        "totalTheatres": 34
       },
       "states": {
         "andhra-pradesh": {
@@ -4107,6 +4238,29 @@
                     "seatsSold": 208,
                     "occupancy": 9.63,
                     "totalRevenue": 35488.0
+                  }
+                }
+              }
+            },
+            "Chirala": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1388,
+                "seatsAvailable": 1388,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "7881": {
+                  "theatreName": "Mohan Theatre, Clock Tower Center, Masjid Centre, Chirala",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1388,
+                    "seatsAvailable": 1388,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -4229,8 +4383,8 @@
             "Rajam": {
               "cityStats": {
                 "totalShows": 4,
-                "totalSeats": 1424,
-                "seatsAvailable": 1424,
+                "totalSeats": 1808,
+                "seatsAvailable": 1808,
                 "seatsSold": 0,
                 "occupancy": 0.0,
                 "totalRevenue": 0.0
@@ -4240,8 +4394,8 @@
                   "theatreName": "SVC Apsara Picture Palace, Palakonda Road, Rajam",
                   "stats": {
                     "totalShows": 4,
-                    "totalSeats": 1424,
-                    "seatsAvailable": 1424,
+                    "totalSeats": 1808,
+                    "seatsAvailable": 1808,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -4348,6 +4502,41 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "karnataka": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Bengaluru": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1056,
+                "seatsAvailable": 837,
+                "seatsSold": 219,
+                "occupancy": 20.74,
+                "totalRevenue": 32670.0
+              },
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1056,
+                    "seatsAvailable": 837,
+                    "seatsSold": 219,
+                    "occupancy": 20.74,
+                    "totalRevenue": 32670.0
                   }
                 }
               }
@@ -4503,10 +4692,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 2812,
-                "seatsAvailable": 2812,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
+                "seatsAvailable": 2810,
+                "seatsSold": 2,
+                "occupancy": 0.07,
+                "totalRevenue": 210.0
               },
               "theatres": {
                 "27151": {
@@ -4514,10 +4703,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2812,
-                    "seatsAvailable": 2812,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
+                    "seatsAvailable": 2810,
+                    "seatsSold": 2,
+                    "occupancy": 0.07,
+                    "totalRevenue": 210.0
                   }
                 }
               }
@@ -4738,13 +4927,13 @@
       "name": "Kenatha Kanom",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kenatha-Kanom%20(1)-a2a22a50-1e11-11f1-990c-772e0b0ec5ac.jpg",
       "overallStats": {
-        "totalShows": 66,
-        "totalSeats": 19272,
-        "seatsAvailable": 16904,
-        "seatsSold": 2368,
-        "occupancy": 12.29,
-        "totalRevenue": 278982.72,
-        "totalTheatres": 17
+        "totalShows": 77,
+        "totalSeats": 22129,
+        "seatsAvailable": 19772,
+        "seatsSold": 2357,
+        "occupancy": 10.65,
+        "totalRevenue": 276372.72,
+        "totalTheatres": 21
       },
       "states": {
         "andhra-pradesh": {
@@ -4909,14 +5098,47 @@
             },
             "Chennai": {
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 700,
-                "seatsAvailable": 412,
-                "seatsSold": 288,
-                "occupancy": 41.14,
-                "totalRevenue": 35262.72
+                "totalShows": 11,
+                "totalSeats": 2911,
+                "seatsAvailable": 2546,
+                "seatsSold": 365,
+                "occupancy": 12.54,
+                "totalRevenue": 45852.72
               },
               "theatres": {
+                "1037511": {
+                  "theatreName": "Sri Ganga Cinemas 4K RGB Laser, Kolathur, Chennai",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1230,
+                    "seatsAvailable": 1182,
+                    "seatsSold": 48,
+                    "occupancy": 3.9,
+                    "totalRevenue": 6240.0
+                  }
+                },
+                "1042635": {
+                  "theatreName": "Rakki Cinemas 4K Dolby Atmos, Ambattur, Chennai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 524,
+                    "seatsAvailable": 524,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 457,
+                    "seatsAvailable": 428,
+                    "seatsSold": 29,
+                    "occupancy": 6.35,
+                    "totalRevenue": 4350.0
+                  }
+                },
                 "1102122": {
                   "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
                   "stats": {
@@ -4949,6 +5171,29 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 646,
+                "seatsAvailable": 734,
+                "seatsSold": -88,
+                "occupancy": -13.62,
+                "totalRevenue": -13200.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 646,
+                    "seatsAvailable": 734,
+                    "seatsSold": -88,
+                    "occupancy": -13.62,
+                    "totalRevenue": -13200.0
                   }
                 }
               }
@@ -5439,10 +5684,10 @@
       "overallStats": {
         "totalShows": 24,
         "totalSeats": 14468,
-        "seatsAvailable": 11752,
-        "seatsSold": 2716,
-        "occupancy": 18.77,
-        "totalRevenue": 201760.0,
+        "seatsAvailable": 11936,
+        "seatsSold": 2532,
+        "occupancy": 17.5,
+        "totalRevenue": 183360.0,
         "totalTheatres": 6
       },
       "states": {
@@ -5460,10 +5705,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1744,
-                "seatsAvailable": 1560,
-                "seatsSold": 184,
-                "occupancy": 10.55,
-                "totalRevenue": 18400.0
+                "seatsAvailable": 1744,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
               },
               "theatres": {
                 "1084822": {
@@ -5471,10 +5716,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1744,
-                    "seatsAvailable": 1560,
-                    "seatsSold": 184,
-                    "occupancy": 10.55,
-                    "totalRevenue": 18400.0
+                    "seatsAvailable": 1744,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -5666,13 +5911,13 @@
       "name": "Mrithyunjay",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Mrithyunjay-9d1978d0-10c5-11f1-88a9-45adc2aacd09.jpg",
       "overallStats": {
-        "totalShows": 112,
-        "totalSeats": 55778,
-        "seatsAvailable": 48546,
-        "seatsSold": 7232,
-        "occupancy": 12.97,
-        "totalRevenue": 725584.0,
-        "totalTheatres": 29
+        "totalShows": 115,
+        "totalSeats": 56826,
+        "seatsAvailable": 49372,
+        "seatsSold": 7454,
+        "occupancy": 13.12,
+        "totalRevenue": 758794.0,
+        "totalTheatres": 30
       },
       "states": {
         "andhra-pradesh": {
@@ -6032,6 +6277,41 @@
             }
           }
         },
+        "karnataka": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Bengaluru": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1056,
+                "seatsAvailable": 834,
+                "seatsSold": 222,
+                "occupancy": 21.02,
+                "totalRevenue": 33210.0
+              },
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1056,
+                    "seatsAvailable": 834,
+                    "seatsSold": 222,
+                    "occupancy": 21.02,
+                    "totalRevenue": 33210.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "telangana": {
           "stateStats": {
             "totalShows": 0,
@@ -6263,8 +6543,8 @@
             "Nalgonda": {
               "cityStats": {
                 "totalShows": 4,
-                "totalSeats": 2156,
-                "seatsAvailable": 2156,
+                "totalSeats": 2148,
+                "seatsAvailable": 2148,
                 "seatsSold": 0,
                 "occupancy": 0.0,
                 "totalRevenue": 0.0
@@ -6274,8 +6554,8 @@
                   "theatreName": "Mythri Theatres, Sri Venkateshwara Theatre 2K 7.1 Dolby (Newly Renovated), Nalgonda",
                   "stats": {
                     "totalShows": 4,
-                    "totalSeats": 2156,
-                    "seatsAvailable": 2156,
+                    "totalSeats": 2148,
+                    "seatsAvailable": 2148,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -6348,6 +6628,57 @@
                     "seatsSold": 352,
                     "occupancy": 18.88,
                     "totalRevenue": 36960.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "O'Romeo": {
+      "id": "OB5WQ5",
+      "name": "O'Romeo",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Romeo-9240c5e0-057f-11f1-9599-09406b282501.jpeg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 197,
+        "seatsAvailable": 188,
+        "seatsSold": 9,
+        "occupancy": 4.57,
+        "totalRevenue": 945.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "uttar-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ghaziabad": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 197,
+                "seatsAvailable": 188,
+                "seatsSold": 9,
+                "occupancy": 4.57,
+                "totalRevenue": 945.0
+              },
+              "theatres": {
+                "25281": {
+                  "theatreName": "New US Cinemas, Aditya Mall, Ghaziabad",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 197,
+                    "seatsAvailable": 188,
+                    "seatsSold": 9,
+                    "occupancy": 4.57,
+                    "totalRevenue": 945.0
                   }
                 }
               }
@@ -6606,13 +6937,13 @@
       "name": "Repu Udayam 10 Gantalaku",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Repu-Udayam-10-Gantalaku-b44513a0-1bc1-11f1-9691-4b994d8b8724.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 1280,
-        "seatsAvailable": 1144,
-        "seatsSold": 136,
-        "occupancy": 10.62,
-        "totalRevenue": 13600.0,
-        "totalTheatres": 1
+        "totalShows": 5,
+        "totalSeats": 1369,
+        "seatsAvailable": 1221,
+        "seatsSold": 148,
+        "occupancy": 10.81,
+        "totalRevenue": 15400.0,
+        "totalTheatres": 2
       },
       "states": {
         "andhra-pradesh": {
@@ -6644,6 +6975,41 @@
                     "seatsSold": 136,
                     "occupancy": 10.62,
                     "totalRevenue": 13600.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "karnataka": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Bengaluru": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 89,
+                "seatsAvailable": 77,
+                "seatsSold": 12,
+                "occupancy": 13.48,
+                "totalRevenue": 1800.0
+              },
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 89,
+                    "seatsAvailable": 77,
+                    "seatsSold": 12,
+                    "occupancy": 13.48,
+                    "totalRevenue": 1800.0
                   }
                 }
               }
@@ -6958,13 +7324,13 @@
       "name": "Thaai Kizhavi",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_Poster%20(8)-4487a990-11aa-11f1-b8e9-3913d9769fcc.jpg",
       "overallStats": {
-        "totalShows": 227,
-        "totalSeats": 109757,
-        "seatsAvailable": 91408,
-        "seatsSold": 18349,
-        "occupancy": 16.72,
-        "totalRevenue": 1845582.54,
-        "totalTheatres": 61
+        "totalShows": 261,
+        "totalSeats": 125546,
+        "seatsAvailable": 105658,
+        "seatsSold": 19888,
+        "occupancy": 15.84,
+        "totalRevenue": 1899620.14,
+        "totalTheatres": 71
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -7031,6 +7397,41 @@
                     "seatsSold": 152,
                     "occupancy": 7.28,
                     "totalRevenue": 20088.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "karnataka": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Bengaluru": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 178,
+                "seatsAvailable": 154,
+                "seatsSold": 24,
+                "occupancy": 13.48,
+                "totalRevenue": 3600.0
+              },
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 178,
+                    "seatsAvailable": 154,
+                    "seatsSold": 24,
+                    "occupancy": 13.48,
+                    "totalRevenue": 3600.0
                   }
                 }
               }
@@ -7336,23 +7737,34 @@
             },
             "Chennai": {
               "cityStats": {
-                "totalShows": 30,
-                "totalSeats": 18351,
-                "seatsAvailable": 15972,
-                "seatsSold": 2379,
-                "occupancy": 12.96,
-                "totalRevenue": 231024.54
+                "totalShows": 42,
+                "totalSeats": 22466,
+                "seatsAvailable": 19968,
+                "seatsSold": 2498,
+                "occupancy": 11.12,
+                "totalRevenue": 248222.14
               },
               "theatres": {
+                "1016088": {
+                  "theatreName": "SRK Cinemas Barco 4K Laser Triplebeam 3D, Chengalpattu",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1768,
+                    "seatsAvailable": 1680,
+                    "seatsSold": 88,
+                    "occupancy": 4.98,
+                    "totalRevenue": 12480.0
+                  }
+                },
                 "1037033": {
                   "theatreName": "Sangam Cinemas 4K RGB Laser Dolby Atmos, Kilpauk, Chennai",
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2285,
-                    "seatsAvailable": 1988,
-                    "seatsSold": 297,
-                    "occupancy": 13.0,
-                    "totalRevenue": 21230.0
+                    "seatsAvailable": 1986,
+                    "seatsSold": 299,
+                    "occupancy": 13.09,
+                    "totalRevenue": 21597.6
                   }
                 },
                 "1037496": {
@@ -7388,6 +7800,17 @@
                     "totalRevenue": 13767.9
                   }
                 },
+                "1042635": {
+                  "theatreName": "Rakki Cinemas 4K Dolby Atmos, Ambattur, Chennai",
+                  "stats": {
+                    "totalShows": 6,
+                    "totalSeats": 1890,
+                    "seatsAvailable": 1890,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                },
                 "1042640": {
                   "theatreName": "Meenakshi Cinemas (Rakki) 4K Dolby Atmos, Avadi, Chennai",
                   "stats": {
@@ -7408,6 +7831,17 @@
                     "seatsSold": 52,
                     "occupancy": 5.46,
                     "totalRevenue": 6240.0
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 457,
+                    "seatsAvailable": 428,
+                    "seatsSold": 29,
+                    "occupancy": 6.35,
+                    "totalRevenue": 4350.0
                   }
                 },
                 "1102122": {
@@ -7505,10 +7939,10 @@
             "Cuddalore": {
               "cityStats": {
                 "totalShows": 8,
-                "totalSeats": 3884,
-                "seatsAvailable": 3836,
+                "totalSeats": 4172,
+                "seatsAvailable": 4124,
                 "seatsSold": 48,
-                "occupancy": 1.24,
+                "occupancy": 1.15,
                 "totalRevenue": 5520.0
               },
               "theatres": {
@@ -7516,8 +7950,8 @@
                   "theatreName": "Velmurugan Theatre",
                   "stats": {
                     "totalShows": 4,
-                    "totalSeats": 2160,
-                    "seatsAvailable": 2160,
+                    "totalSeats": 2448,
+                    "seatsAvailable": 2448,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -7559,6 +7993,29 @@
                 }
               }
             },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 700,
+                "seatsAvailable": 716,
+                "seatsSold": -16,
+                "occupancy": -2.29,
+                "totalRevenue": -2400.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 700,
+                    "seatsAvailable": 716,
+                    "seatsSold": -16,
+                    "occupancy": -2.29,
+                    "totalRevenue": -2400.0
+                  }
+                }
+              }
+            },
             "Karimangalam": {
               "cityStats": {
                 "totalShows": 4,
@@ -7586,10 +8043,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 2204,
-                "seatsAvailable": 2032,
-                "seatsSold": 172,
-                "occupancy": 7.8,
-                "totalRevenue": 25800.0
+                "seatsAvailable": 2204,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
               },
               "theatres": {
                 "1083399": {
@@ -7597,10 +8054,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2204,
-                    "seatsAvailable": 2032,
-                    "seatsSold": 172,
-                    "occupancy": 7.8,
-                    "totalRevenue": 25800.0
+                    "seatsAvailable": 2204,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -7676,12 +8133,12 @@
             },
             "Kumbakonam": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 2472,
-                "seatsAvailable": 2464,
-                "seatsSold": 8,
-                "occupancy": 0.32,
-                "totalRevenue": 1200.0
+                "totalShows": 8,
+                "totalSeats": 6636,
+                "seatsAvailable": 5208,
+                "seatsSold": 1428,
+                "occupancy": 21.52,
+                "totalRevenue": 40920.0
               },
               "theatres": {
                 "1015795": {
@@ -7693,6 +8150,17 @@
                     "seatsSold": 8,
                     "occupancy": 0.32,
                     "totalRevenue": 1200.0
+                  }
+                },
+                "1036961": {
+                  "theatreName": "Kasi Kalaiarangam A/C RGB Laser Dolby Atmos, Town High School Road, Kumbakonam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 4164,
+                    "seatsAvailable": 2744,
+                    "seatsSold": 1420,
+                    "occupancy": 34.1,
+                    "totalRevenue": 39720.0
                   }
                 }
               }
@@ -8110,6 +8578,52 @@
                 }
               }
             },
+            "Tiruchendur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1620,
+                "seatsAvailable": 1600,
+                "seatsSold": 20,
+                "occupancy": 1.23,
+                "totalRevenue": 3000.0
+              },
+              "theatres": {
+                "9174": {
+                  "theatreName": "Krishna Cinemas Full A/C Dolby 7.1 3D, Tiruchendur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1620,
+                    "seatsAvailable": 1600,
+                    "seatsSold": 20,
+                    "occupancy": 1.23,
+                    "totalRevenue": 3000.0
+                  }
+                }
+              }
+            },
+            "Tirunelveli": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 912,
+                "seatsAvailable": 912,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "25045": {
+                  "theatreName": "Alangar Cinemas 4K RGB Laser Dolby Atmos, Melapalayam, Tirunelveli",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 912,
+                    "seatsAvailable": 912,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Tirupattur": {
               "cityStats": {
                 "totalShows": 8,
@@ -8167,6 +8681,29 @@
                 }
               }
             },
+            "Udumalpet": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2196,
+                "seatsAvailable": 2196,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "19513": {
+                  "theatreName": "Lathangi Theatre A/C, Srinivasa Street, Udumalpet",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2196,
+                    "seatsAvailable": 2196,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Vaniyambadi": {
               "cityStats": {
                 "totalShows": 4,
@@ -8192,12 +8729,12 @@
             },
             "Vellore": {
               "cityStats": {
-                "totalShows": 8,
-                "totalSeats": 2880,
-                "seatsAvailable": 2396,
-                "seatsSold": 484,
-                "occupancy": 16.81,
-                "totalRevenue": 59080.0
+                "totalShows": 12,
+                "totalSeats": 4496,
+                "seatsAvailable": 3868,
+                "seatsSold": 628,
+                "occupancy": 13.97,
+                "totalRevenue": 77800.0
               },
               "theatres": {
                 "1012280": {
@@ -8209,6 +8746,17 @@
                     "seatsSold": 164,
                     "occupancy": 13.31,
                     "totalRevenue": 22760.0
+                  }
+                },
+                "1037516": {
+                  "theatreName": "Venus Cinemas 4K A/C Dolby Atmos, Krishna Nagar, Vellore",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1616,
+                    "seatsAvailable": 1472,
+                    "seatsSold": 144,
+                    "occupancy": 8.91,
+                    "totalRevenue": 18720.0
                   }
                 },
                 "1037521": {
@@ -8330,13 +8878,13 @@
       "name": "The Kerala Story 2 Goes Beyond",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/The-Kerala-Story-2_Poster-0027a2e0-10a2-11f1-8252-c378411faad0.jpg",
       "overallStats": {
-        "totalShows": 18,
-        "totalSeats": 5125,
-        "seatsAvailable": 4908,
-        "seatsSold": 217,
-        "occupancy": 4.23,
-        "totalRevenue": 39300.0,
-        "totalTheatres": 7
+        "totalShows": 22,
+        "totalSeats": 5793,
+        "seatsAvailable": 5538,
+        "seatsSold": 255,
+        "occupancy": 4.4,
+        "totalRevenue": 44794.0,
+        "totalTheatres": 8
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -8578,6 +9126,41 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uttar-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ghaziabad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 668,
+                "seatsAvailable": 630,
+                "seatsSold": 38,
+                "occupancy": 5.69,
+                "totalRevenue": 5494.0
+              },
+              "theatres": {
+                "25281": {
+                  "theatreName": "New US Cinemas, Aditya Mall, Ghaziabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 668,
+                    "seatsAvailable": 630,
+                    "seatsSold": 38,
+                    "occupancy": 5.69,
+                    "totalRevenue": 5494.0
                   }
                 }
               }
@@ -8887,13 +9470,13 @@
       "name": "Vengeance",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/vengeance-poser-decbbc00-f2bd-11f0-9ba0-b92e8ffc4b5b-8a445060-1b81-11f1-9b97-9fe8ccbc983f.jpg",
       "overallStats": {
-        "totalShows": 36,
-        "totalSeats": 11591,
-        "seatsAvailable": 10004,
+        "totalShows": 40,
+        "totalSeats": 11903,
+        "seatsAvailable": 10316,
         "seatsSold": 1587,
-        "occupancy": 13.69,
+        "occupancy": 13.33,
         "totalRevenue": 179390.0,
-        "totalTheatres": 11
+        "totalTheatres": 12
       },
       "states": {
         "tamil-nadu": {
@@ -9136,6 +9719,29 @@
                 }
               }
             },
+            "Uthukottai": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 312,
+                "seatsAvailable": 312,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "3896": {
+                  "theatreName": "Sri Kumari Cinemas, Nagalapuram Road, Uthukottai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 312,
+                    "seatsAvailable": 312,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Vaniyambadi": {
               "cityStats": {
                 "totalShows": 2,
@@ -9168,13 +9774,13 @@
       "name": "Vishnu Vinyasam",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Vishnu-Vinyasam--Main-Poster-beae2450-0cba-11f1-9131-e933d8c08fec-8789f030-109d-11f1-8f1d-97b5121f4c4d.jpg",
       "overallStats": {
-        "totalShows": 14,
-        "totalSeats": 5208,
-        "seatsAvailable": 3710,
-        "seatsSold": 1498,
-        "occupancy": 28.76,
-        "totalRevenue": 146750.0,
-        "totalTheatres": 4
+        "totalShows": 16,
+        "totalSeats": 5912,
+        "seatsAvailable": 4266,
+        "seatsSold": 1646,
+        "occupancy": 27.84,
+        "totalRevenue": 168890.0,
+        "totalTheatres": 5
       },
       "states": {
         "andhra-pradesh": {
@@ -9280,6 +9886,92 @@
               }
             }
           }
+        },
+        "karnataka": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Bengaluru": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 704,
+                "seatsAvailable": 556,
+                "seatsSold": 148,
+                "occupancy": 21.02,
+                "totalRevenue": 22140.0
+              },
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 704,
+                    "seatsAvailable": 556,
+                    "seatsSold": 148,
+                    "occupancy": 21.02,
+                    "totalRevenue": 22140.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Viyaah Kartaare Da": {
+      "id": "OB5ZOG",
+      "name": "Viyaah Kartaare Da",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Viyaah-Kartaare-Da-6f8017a0-1208-11f1-ac23-4d2a8cbf9688.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 357,
+        "seatsAvailable": 357,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "punjab": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Amritsar": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 357,
+                "seatsAvailable": 357,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 357,
+                    "seatsAvailable": 357,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -9288,15 +9980,50 @@
       "name": "Vowels",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/VOWELS--8739db90-1caa-11f1-b52a-e52401e1367e.jpg",
       "overallStats": {
-        "totalShows": 11,
-        "totalSeats": 2315,
-        "seatsAvailable": 2288,
-        "seatsSold": 27,
-        "occupancy": 1.17,
-        "totalRevenue": 1467.18,
-        "totalTheatres": 4
+        "totalShows": 12,
+        "totalSeats": 2404,
+        "seatsAvailable": 2365,
+        "seatsSold": 39,
+        "occupancy": 1.62,
+        "totalRevenue": 3267.18,
+        "totalTheatres": 5
       },
       "states": {
+        "karnataka": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Bengaluru": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 89,
+                "seatsAvailable": 77,
+                "seatsSold": 12,
+                "occupancy": 13.48,
+                "totalRevenue": 1800.0
+              },
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 89,
+                    "seatsAvailable": 77,
+                    "seatsSold": 12,
+                    "occupancy": 13.48,
+                    "totalRevenue": 1800.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "tamil-nadu": {
           "stateStats": {
             "totalShows": 0,
@@ -9410,10 +10137,10 @@
       "overallStats": {
         "totalShows": 2,
         "totalSeats": 752,
-        "seatsAvailable": 670,
-        "seatsSold": 82,
-        "occupancy": 10.9,
-        "totalRevenue": 5206.8,
+        "seatsAvailable": 664,
+        "seatsSold": 88,
+        "occupancy": 11.7,
+        "totalRevenue": 6309.6,
         "totalTheatres": 1
       },
       "states": {
@@ -9431,10 +10158,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 752,
-                "seatsAvailable": 670,
-                "seatsSold": 82,
-                "occupancy": 10.9,
-                "totalRevenue": 5206.8
+                "seatsAvailable": 664,
+                "seatsSold": 88,
+                "occupancy": 11.7,
+                "totalRevenue": 6309.6
               },
               "theatres": {
                 "1037033": {
@@ -9442,10 +10169,10 @@
                   "stats": {
                     "totalShows": 2,
                     "totalSeats": 752,
-                    "seatsAvailable": 670,
-                    "seatsSold": 82,
-                    "occupancy": 10.9,
-                    "totalRevenue": 5206.8
+                    "seatsAvailable": 664,
+                    "seatsSold": 88,
+                    "occupancy": 11.7,
+                    "totalRevenue": 6309.6
                   }
                 }
               }
